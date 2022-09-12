@@ -1,0 +1,4460 @@
+# Translation of Plugins - Contact Form Plugin &#8211; Easy Drag and Drop Form Builder for WordPress &#8211; Everest Forms - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Contact Form Plugin &#8211; Easy Drag and Drop Form Builder for WordPress &#8211; Everest Forms - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-29 15:26:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Contact Form Plugin &#8211; Easy Drag and Drop Form Builder for WordPress &#8211; Everest Forms - Stable (latest release)\n"
+
+#: includes/class-evf-form-task.php:529 templates/notices/success.php:63
+msgid "Download your form submission in PDF format"
+msgstr "Télécharger la soumission de votre formulaire au format PDF"
+
+#: includes/evf-core-functions.php:1605
+msgid "Bolivia"
+msgstr "Bolivie"
+
+#: includes/evf-core-functions.php:1742
+msgid "North Korea"
+msgstr "Corée du Nord"
+
+#: includes/evf-core-functions.php:1722
+msgid "Moldova"
+msgstr "Moldavie"
+
+#: includes/evf-core-functions.php:1721
+msgid "Micronesia"
+msgstr "Micronésie"
+
+#: includes/evf-core-functions.php:1708
+msgid "North Macedonia"
+msgstr "Macédoine du Nord"
+
+#: includes/evf-core-functions.php:1698
+msgid "Laos"
+msgstr "Laos"
+
+#: includes/evf-core-functions.php:1696
+msgid "Kosovo"
+msgstr "Kosovo"
+
+#: includes/evf-core-functions.php:1687
+msgid "Ivory Coast"
+msgstr "Côte d’Ivoire"
+
+#: includes/evf-core-functions.php:1683
+msgid "Ireland"
+msgstr "Irlande"
+
+#: includes/evf-core-functions.php:1681
+msgid "Iran"
+msgstr "Iran"
+
+#: includes/evf-core-functions.php:1649
+msgid "Falkland Islands"
+msgstr "Îles Falkland"
+
+#: includes/evf-core-functions.php:1635
+msgid "Cura&ccedil;ao"
+msgstr "Curaçao"
+
+#: includes/evf-core-functions.php:1612
+msgid "Brunei"
+msgstr "Brunei"
+
+#: includes/evf-core-functions.php:1796
+msgid "Tanzania"
+msgstr "Tanzanie"
+
+#: includes/evf-core-functions.php:1794
+msgid "Taiwan"
+msgstr "Taïwan"
+
+#: includes/evf-core-functions.php:1793
+msgid "Syria"
+msgstr "Syrie"
+
+#: includes/evf-core-functions.php:1783
+msgid "South Korea"
+msgstr "Corée du Sud"
+
+#: includes/evf-core-functions.php:1600
+msgid "Belau"
+msgstr "Palaos"
+
+#: includes/evf-core-functions.php:1817
+msgid "Vatican"
+msgstr "Vatican"
+
+#: includes/evf-core-functions.php:1759
+msgid "Russia"
+msgstr "Russie"
+
+#: includes/evf-core-functions.php:1818
+msgid "Venezuela"
+msgstr "Venezuela"
+
+#: includes/evf-core-functions.php:1630
+msgid "Congo (Kinshasa)"
+msgstr "Congo (Kinshasa)"
+
+#: includes/evf-core-functions.php:1819
+msgid "Vietnam"
+msgstr "Viêt Nam"
+
+#: includes/evf-core-functions.php:1812
+msgid "United States (US)"
+msgstr "Etats-Unis (USA)"
+
+#: includes/evf-core-functions.php:1811
+msgid "United Kingdom (UK)"
+msgstr "Royaume-Uni (UK)"
+
+#: includes/evf-core-functions.php:1770
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "Sao Tomé-et-Principe"
+
+#: includes/evf-core-functions.php:1762
+msgid "Saint Helena"
+msgstr "Sainte-Hélène"
+
+#: includes/evf-core-functions.php:1761
+msgid "Saint Barth&eacute;lemy"
+msgstr "Saint-Barthélemy"
+
+#: includes/evf-core-functions.php:1746
+msgid "Palestinian Territory"
+msgstr "Territoires Palestiniens"
+
+#: includes/evf-core-functions.php:1782
+msgid "South Georgia/Sandwich Islands"
+msgstr "Géorgie du Sud/îles Sandwich"
+
+#: includes/evf-core-functions.php:1629
+msgid "Congo (Brazzaville)"
+msgstr "Congo (Brazzaville)"
+
+#: includes/evf-core-functions.php:1606
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "Bonaire, Saint-Eustache et Saba"
+
+#: includes/admin/class-evf-admin-settings.php:331
+msgid "Upload Logo"
+msgstr "Téléverser un logo"
+
+#: includes/admin/class-evf-admin-settings.php:332
+msgid "Header Logo"
+msgstr "Logo d’En-tête"
+
+#: includes/class-evf-frontend-scripts.php:316
+msgid "Click here to download your pdf submission"
+msgstr "Cliquer ici pour télécharger votre soumission pdf"
+
+#: includes/admin/settings/class-evf-settings-general.php:53
+msgid "Enable Log"
+msgstr "Activer le journal"
+
+#: includes/admin/settings/class-evf-settings-general.php:54
+msgid "Enable storing the logs."
+msgstr "Activer le stockage des journaux."
+
+#: includes/abstracts/class-evf-form-fields.php:917
+#: includes/fields/class-evf-field-date-time.php:110
+msgid "Style"
+msgstr "Style"
+
+#: includes/admin/views/html-notice-review.php:16
+msgid "HAKUNA MATATA!"
+msgstr "HAKUNA MATATA !"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:157
+#: includes/admin/class-evf-admin-forms-table-list.php:176
+msgid "View Entries"
+msgstr "Voir les entrées"
+
+#: includes/admin/views/html-notice-review.php:28
+msgid "I have a query"
+msgstr "J’ai une question"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:161
+#: includes/admin/class-evf-admin-forms-table-list.php:172
+msgid "Edit this Form"
+msgstr "Modifier ce Formulaire"
+
+#: includes/fields/class-evf-field-date-time.php:122
+msgid "Date Picker"
+msgstr "Sélecteur de date"
+
+#: includes/admin/class-evf-admin-assets.php:154
+msgid "This row cannot be deleted or duplicated."
+msgstr "Cette ligne ne peut pas être supprimée ou dupliquée."
+
+#: includes/admin/class-evf-admin-assets.php:159
+msgid "Are you sure you want to duplicate this row?"
+msgstr "Êtes-vous sûr de vouloir dupliquer cette ligne ?"
+
+#: includes/fields/class-evf-field-date-time.php:530
+msgid "Maximum Time"
+msgstr "Temps maximum"
+
+#: includes/fields/class-evf-field-date-time.php:111
+msgid "Select a style for the date field."
+msgstr "Sélectionner un style pour le champ date."
+
+#: includes/fields/class-evf-field-divider.php:20
+msgid "Divider"
+msgstr "Séparateur"
+
+#: includes/fields/class-evf-field-date-time.php:531
+msgid "Select maximum time."
+msgstr "Sélectionner l’heure maximum."
+
+#: includes/fields/class-evf-field-date-time.php:520
+msgid "Select minium time."
+msgstr "Sélectionner l’heure minimum."
+
+#: includes/fields/class-evf-field-date-time.php:519
+msgid "Minimum Time"
+msgstr "Heure minimum"
+
+#: includes/fields/class-evf-field-date-time.php:508
+msgid "Check this option to set min max time."
+msgstr "Cochez cette option pour définir l’heure min max."
+
+#: includes/fields/class-evf-field-date-time.php:507
+msgid "Enable Min Max Time."
+msgstr "Activer l’heure min max."
+
+#: includes/fields/class-evf-field-date-time.php:123
+msgid "Date Dropdown"
+msgstr "Liste déroulante des dates"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:153
+msgid "View Preview"
+msgstr "Voir l’aperçu"
+
+#. translators: %1$s: Plugin Name, %2$s: Rating link
+#: includes/admin/views/html-notice-review.php:20
+msgid ""
+"Hope you are having nice experience with %1$s plugin. Please provide this plugin a nice review. %3$s %2$s\n"
+"\t\t\t\tBasically, it would encourage us to release updates regularly with new features & bug fixes so that you can keep on using the plugin without any issues and also to provide free support like we have been doing. %4$s"
+msgstr ""
+"J’espère que vous avez une bonne expérience avec l’extension %1$s. Veuillez donner une bonne note à cette extension. %3$s %2$s\n"
+"\t\t\t\tFondamentalement, cela nous encouragerait à publier régulièrement des mises à jour avec de nouvelles fonctionnalités et des correctifs de bogue afin que vous puissiez continuer à utiliser l’extension sans aucun problème et également à fournir un support gratuit comme nous l’avons fait. %4$s"
+
+#: includes/fields/class-evf-field-payment-quantity.php:19
+msgid "Quantity"
+msgstr "Quantité"
+
+#: includes/class-evf-smart-tags.php:48
+msgid "User Display Name"
+msgstr "Nom d’affichage de l’utilisateur"
+
+#: includes/admin/builder/class-evf-builder-fields.php:77
+msgid "Oops!"
+msgstr "Oops !"
+
+#: includes/admin/builder/class-evf-builder-fields.php:68
+msgid "Search fields&hellip;"
+msgstr "Recherche de champs…"
+
+#: includes/admin/builder/class-evf-builder-fields.php:78
+msgid "There is not such field that you are searching for."
+msgstr "Le champ que vous recherchez n’existe pas."
+
+#: includes/abstracts/class-evf-form-fields.php:1049
+msgid "Multiple selection"
+msgstr "Sélection multiple"
+
+#: includes/abstracts/class-evf-form-fields.php:1043
+msgid "Multiple Selection"
+msgstr "Sélection multiple"
+
+#: includes/abstracts/class-evf-form-fields.php:1039
+msgid "Single Selection"
+msgstr "Sélection Unique"
+
+#: includes/abstracts/class-evf-form-fields.php:1204
+msgid "Saturday"
+msgstr "Samedi"
+
+#: includes/abstracts/class-evf-form-fields.php:1202
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: includes/abstracts/class-evf-form-fields.php:1200
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: includes/abstracts/class-evf-form-fields.php:1198
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: includes/abstracts/class-evf-form-fields.php:1203
+msgid "Friday"
+msgstr "Vendredi"
+
+#: includes/abstracts/class-evf-form-fields.php:1201
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: includes/abstracts/class-evf-form-fields.php:1199
+msgid "Monday"
+msgstr "Lundi"
+
+#: includes/abstracts/class-evf-form-fields.php:1185
+msgid "June"
+msgstr "Juin"
+
+#: includes/abstracts/class-evf-form-fields.php:1184
+msgid "May"
+msgstr "Mai"
+
+#: includes/abstracts/class-evf-form-fields.php:1183
+msgid "April"
+msgstr "Avril"
+
+#: includes/abstracts/class-evf-form-fields.php:1182
+msgid "March"
+msgstr "Mars"
+
+#: includes/abstracts/class-evf-form-fields.php:1181
+msgid "February"
+msgstr "Février"
+
+#: includes/abstracts/class-evf-form-fields.php:1180
+msgid "January"
+msgstr "Janvier"
+
+#: includes/abstracts/class-evf-form-fields.php:1177
+msgid "Months"
+msgstr "Mois"
+
+#: includes/abstracts/class-evf-form-fields.php:1169
+msgid "Presets"
+msgstr "Préréglages"
+
+#: includes/abstracts/class-evf-form-fields.php:1191
+msgid "December"
+msgstr "Décembre"
+
+#: includes/abstracts/class-evf-form-fields.php:1190
+msgid "November"
+msgstr "Novembre"
+
+#: includes/abstracts/class-evf-form-fields.php:1189
+msgid "October"
+msgstr "Octobre"
+
+#: includes/abstracts/class-evf-form-fields.php:1188
+msgid "September"
+msgstr "Septembre"
+
+#: includes/abstracts/class-evf-form-fields.php:1187
+msgid "August"
+msgstr "Août"
+
+#: includes/abstracts/class-evf-form-fields.php:1186
+msgid "July"
+msgstr "Juillet"
+
+#: includes/evf-core-functions.php:1659 includes/evf-core-functions.php:1851
+msgid "Georgia"
+msgstr "Géorgie"
+
+#: includes/abstracts/class-evf-form-fields.php:1258
+msgid "Important"
+msgstr "Important"
+
+#: includes/abstracts/class-evf-form-fields.php:1208
+msgid "Countries"
+msgstr "Pays"
+
+#: includes/abstracts/class-evf-form-fields.php:1195
+msgid "Week Days"
+msgstr "Jours de la semaine"
+
+#: includes/fields/class-evf-field-privacy-policy.php:20
+msgid "Privacy Policy"
+msgstr "Politique de Confidentialité"
+
+#: includes/evf-core-functions.php:2122
+msgid "Desktop"
+msgstr "Ordinateur"
+
+#: includes/evf-core-functions.php:2118
+msgid "Tablet"
+msgstr "Tablette"
+
+#: includes/abstracts/class-evf-form-fields.php:1272
+msgid "Disagree"
+msgstr "Désapprouver"
+
+#: includes/abstracts/class-evf-form-fields.php:1270
+msgid "Agree"
+msgstr "Approuver"
+
+#: includes/abstracts/class-evf-form-fields.php:1257
+msgid "Very Important"
+msgstr "Très Important"
+
+#: includes/abstracts/class-evf-form-fields.php:1249
+msgid "Very Unsatisfied"
+msgstr "Très Insatisfait"
+
+#: includes/abstracts/class-evf-form-fields.php:1248
+msgid "Unsatisfied"
+msgstr "Insatisfait"
+
+#: includes/abstracts/class-evf-form-fields.php:1247
+#: includes/abstracts/class-evf-form-fields.php:1259
+#: includes/abstracts/class-evf-form-fields.php:1271
+msgid "Neutral"
+msgstr "Neutre"
+
+#: includes/abstracts/class-evf-form-fields.php:1246
+msgid "Satisfied"
+msgstr "Satisfait"
+
+#: includes/abstracts/class-evf-form-fields.php:1245
+msgid "Very Satisfied"
+msgstr "Très Satisfait"
+
+#: includes/abstracts/class-evf-form-fields.php:1242
+msgid "Satisfaction"
+msgstr "Satisfaction"
+
+#: includes/abstracts/class-evf-form-fields.php:1238
+msgid "Prefer Not to Answer"
+msgstr "Préfère Ne pas Répondre"
+
+#: includes/admin/views/html-admin-page-entries-view.php:178
+msgid "Modified:"
+msgstr "Modifié : "
+
+#: includes/abstracts/class-evf-form-fields.php:1237
+msgid "65 or Above"
+msgstr "65 ou Plus"
+
+#: includes/abstracts/class-evf-form-fields.php:1236
+msgid "55-64"
+msgstr "55-64"
+
+#: includes/abstracts/class-evf-form-fields.php:1235
+msgid "45-54"
+msgstr "45-54"
+
+#: includes/abstracts/class-evf-form-fields.php:1234
+msgid "35-44"
+msgstr "35-44"
+
+#: includes/abstracts/class-evf-form-fields.php:1233
+msgid "25-34"
+msgstr "25-34"
+
+#: includes/abstracts/class-evf-form-fields.php:1232
+msgid "18-24"
+msgstr "18-24"
+
+#: includes/abstracts/class-evf-form-fields.php:1231
+msgid "Under 18"
+msgstr "Moins de 18"
+
+#: includes/abstracts/class-evf-form-fields.php:1228
+msgid "Age Groups"
+msgstr "Groupes d’Âge"
+
+#: includes/abstracts/class-evf-form-fields.php:1218
+msgid "U.S. States"
+msgstr "États-Unis"
+
+#: includes/abstracts/class-evf-form-fields.php:1260
+msgid "Somewhat Important"
+msgstr "Assez Important"
+
+#: includes/abstracts/class-evf-form-fields.php:1254
+msgid "Importance"
+msgstr "Importance"
+
+#: includes/abstracts/class-evf-form-fields.php:1261
+msgid "Not at all Important"
+msgstr "Pas Important"
+
+#: includes/abstracts/class-evf-form-fields.php:1297
+msgid "Add New Choices"
+msgstr "Ajouter de Nouveaux Choix"
+
+#: includes/evf-core-functions.php:2120
+msgid "Mobile"
+msgstr "Mobile"
+
+#: includes/abstracts/class-evf-form-fields.php:1213
+msgid "Countries Postal Code"
+msgstr "Codes postaux des pays"
+
+#: includes/abstracts/class-evf-form-fields.php:1223
+msgid "U.S. States Postal Code"
+msgstr "Codes postaux des Etats-Unis"
+
+#: includes/abstracts/class-evf-form-fields.php:1273
+msgid "Strongly Disagree"
+msgstr "Absolument pas d’accord"
+
+#: includes/abstracts/class-evf-form-fields.php:1269
+msgid "Strongly Agree"
+msgstr "Entièrement d’accord"
+
+#: includes/abstracts/class-evf-form-fields.php:1250
+#: includes/abstracts/class-evf-form-fields.php:1262
+#: includes/abstracts/class-evf-form-fields.php:1274
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/abstracts/class-evf-form-fields.php:1266
+msgid "Agreement"
+msgstr "Accord"
+
+#: includes/abstracts/class-evf-form-fields.php:1168
+msgid "Add multiple options at once."
+msgstr "Ajouter plusieurs options à la fois."
+
+#: includes/abstracts/class-evf-form-fields.php:1159
+msgid "Add Bulk Options"
+msgstr "Ajouter des options par lots"
+
+#: includes/abstracts/class-evf-form-fields.php:1009
+msgid "Bulk Add"
+msgstr "Ajouter en lot"
+
+#: includes/fields/class-evf-field-range-slider.php:20
+msgid "Range Slider"
+msgstr "Plage de choix"
+
+#: includes/fields/class-evf-field-date-time.php:191
+msgid "Clear"
+msgstr "﻿Effacer"
+
+#: includes/fields/class-evf-field-date-time.php:197
+msgid "Disable Dates"
+msgstr "Désactiver les dates"
+
+#: includes/fields/class-evf-field-select.php:187
+msgid "Enable Enhanced Select"
+msgstr "Activer la sélection améliorée"
+
+#: includes/fields/class-evf-field-select.php:200
+msgid "Enhanced select"
+msgstr "Sélection améliorée"
+
+#: includes/admin/class-evf-admin-assets.php:289
+msgid "Are you sure you want to delete this log?"
+msgstr "Confirmez-vous vouloir supprimer ce journal ?"
+
+#: includes/fields/class-evf-field-select.php:177
+msgid "Check this option to enable enhanced select. It enables you to search items in the dropdown field."
+msgstr "Cochez cette option pour activer la sélection améliorée. Cela vous permet de rechercher des éléments dans le champ de liste déroulante."
+
+#: includes/fields/class-evf-field-date-time.php:198
+msgid "Select which dates you want to disable."
+msgstr "Sélectionnez les dates que vous souhaitez désactiver."
+
+#: includes/fields/class-evf-field-captcha.php:20
+msgid "Captcha"
+msgstr "CAPTCHA"
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:133
+msgid "Please enter your secret key for your reCAPTCHA v3. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Veuillez saisir la clé secrète pour votre reCAPTCHA v3. <a href=\"%1$s\" target=\"_blank\">En savoir plus</a>"
+
+#: includes/class-evf-form-task.php:278
+msgid "Google reCAPTCHA verification failed, please try again later."
+msgstr "La vérification de Google reCAPTCHA a échouée, veuillez réessayer plus tard."
+
+#: includes/admin/builder/class-evf-builder-fields.php:327
+msgid "Add Row"
+msgstr "Ajouter une ligne"
+
+#: includes/class-evf-template-loader.php:66
+msgid "Edit Form"
+msgstr "Modifier le formulaire"
+
+#. translators: %s: File format
+#: includes/admin/views/html-admin-page-import.php:22
+msgid "Only %s file is allowed."
+msgstr "Seul le fichier %s est autorisé."
+
+#: includes/abstracts/class-evf-form-fields.php:582
+msgid "Address Line 1"
+msgstr "Adresse 1"
+
+#: includes/abstracts/class-evf-form-fields.php:600
+msgid "State / Province / Region"
+msgstr "Région"
+
+#: includes/abstracts/class-evf-form-fields.php:609
+msgid "Zip / Postal Code"
+msgstr "Code Postal"
+
+#: includes/abstracts/class-evf-form-fields.php:1093
+#: includes/admin/class-evf-admin-assets.php:94
+#: includes/admin/class-evf-admin-settings.php:334
+msgid "Upload Image"
+msgstr "Télécharger l’image"
+
+#: includes/abstracts/class-evf-form-fields.php:1100
+#: includes/admin/builder/class-evf-builder-settings.php:102
+msgid "Remove"
+msgstr "Supprimer"
+
+#: includes/abstracts/class-evf-form-fields.php:1101
+msgid "Change image"
+msgstr "Changer l’image"
+
+#: includes/abstracts/class-evf-form-fields.php:1136
+msgid "Use image choices"
+msgstr "Utiliser les choix d’image"
+
+#: includes/abstracts/class-evf-form-fields.php:1137
+msgid "Check this option to enable using images with the choices."
+msgstr "Cochez cette option pour activer l’utilisation des images avec les choix."
+
+#: includes/abstracts/class-evf-form-fields.php:1601
+msgid "Inline"
+msgstr "En ligne"
+
+#: includes/abstracts/class-evf-form-fields.php:1610
+msgid "Layout"
+msgstr "Mise en page"
+
+#: includes/admin/builder/class-evf-builder-settings.php:374
+msgid "Enable Ajax Form Submission"
+msgstr "Activer la soumission de formulaire Ajax"
+
+#: includes/admin/builder/class-evf-builder-settings.php:377
+msgid "Enables form submission without reloading the page."
+msgstr "Permet la soumission du formulaire sans recharger la page."
+
+#: includes/admin/class-evf-admin-assets.php:104
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/admin/class-evf-admin-assets.php:105
+msgid "Updating Templates"
+msgstr "Mise à jour des modèles"
+
+#: includes/admin/class-evf-admin-assets.php:143
+msgid "Installing"
+msgstr "Installation"
+
+#: includes/admin/class-evf-admin-assets.php:144
+msgid "Activating"
+msgstr "Activation"
+
+#: includes/admin/class-evf-admin-assets.php:145
+msgid "Install & Activate"
+msgstr "Installer et activer"
+
+#: includes/admin/class-evf-admin-assets.php:146
+msgid "Activate Plugins"
+msgstr "Activer les extensions"
+
+#: includes/admin/class-evf-admin-assets.php:161
+msgid "Choose an image"
+msgstr "Choisir une image"
+
+#: includes/admin/class-evf-admin-assets.php:162
+msgid "Use Image"
+msgstr "Utiliser l’image"
+
+#: includes/admin/class-evf-admin-assets.php:268
+msgid "You must provide a Form name"
+msgstr "Vous devez fournir un nom de formulaire"
+
+#: includes/admin/class-evf-admin-assets.php:272
+msgid "is a Premium Template"
+msgstr "est un modèle Premium"
+
+#: includes/admin/class-evf-admin-assets.php:273
+msgid "Continue"
+msgstr "Continuer"
+
+#: includes/admin/class-evf-admin-assets.php:274
+msgid "Untitled Form"
+msgstr "Formulaire sans titre"
+
+#: includes/admin/class-evf-admin-menus.php:201
+msgid "Tools"
+msgstr "Outils"
+
+#: includes/admin/settings/class-evf-settings-validation.php:82
+msgid "Confirm Value"
+msgstr "Confirmer la valeur"
+
+#: includes/admin/settings/class-evf-settings-validation.php:88
+#: includes/class-evf-frontend-scripts.php:294
+msgid "Field values do not match."
+msgstr "Les valeurs de champ ne correspondent pas."
+
+#: includes/admin/settings/class-evf-settings-validation.php:97
+#: includes/class-evf-frontend-scripts.php:295
+#: includes/fields/class-evf-field-checkbox.php:481
+msgid "You have exceeded number of allowed selections: {#}."
+msgstr "Vous avez dépassé le nombre de sélections autorisées : {#}."
+
+#: includes/admin/views/html-admin-page-builder-setup.php:23
+msgid "Add New Form"
+msgstr "Ajouter un nouveau formulaire"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:30
+msgid "All"
+msgstr "Tout"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:33
+msgid "Free"
+msgstr "Gratuit"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:36
+msgid "Premium"
+msgstr "Premium"
+
+#: includes/admin/views/html-admin-page-builder-setup.php:160
+msgid "Show more details"
+msgstr "Afficher plus de détails"
+
+#: includes/admin/views/html-admin-page-entries-view.php:213
+msgid "Referer Link:"
+msgstr "Lien référent :"
+
+#: includes/admin/views/html-admin-page-export.php:24
+msgid "You need to create a form before you can use form export."
+msgstr "Vous devez créer un formulaire avant de pouvoir utiliser l’exportation de formulaire."
+
+#: includes/admin/views/html-admin-page-export.php:29
+#: includes/admin/views/html-admin-page-tools.php:15
+msgid "Export"
+msgstr "Exporter"
+
+#: includes/admin/views/html-admin-page-import.php:16
+msgid "No file selected"
+msgstr "Aucun fichier sélectionné"
+
+#: includes/admin/views/html-admin-page-tools.php:14
+msgid "Import"
+msgstr "Importer"
+
+#: includes/fields/class-evf-field-checkbox.php:171
+msgid "Checked"
+msgstr "Coché"
+
+#: includes/fields/class-evf-field-text.php:74
+#: includes/fields/class-evf-field-textarea.php:74
+msgid "Limit Length"
+msgstr "Longueur limite"
+
+#: includes/fields/class-evf-field-text.php:108
+#: includes/fields/class-evf-field-text.php:171
+#: includes/fields/class-evf-field-textarea.php:108
+#: includes/fields/class-evf-field-textarea.php:171
+msgid "Characters"
+msgstr "Caractères"
+
+#: includes/admin/class-evf-admin-assets.php:242
+msgid "Please select a form which you want to export."
+msgstr "Veuillez sélectionner le formulaire que vous souhaitez exporter."
+
+#: includes/admin/class-evf-admin-assets.php:173
+msgid "Form name can't be empty."
+msgstr "Le nom du formulaire ne peut pas être vide."
+
+#: includes/admin/class-evf-admin-assets.php:164
+msgid "Empty Form Name"
+msgstr "Nom de formulaire vide"
+
+#: includes/class-evf-ajax.php:394
+msgid "No Addon specified."
+msgstr "Aucun module spécifié."
+
+#: includes/admin/views/html-admin-page-builder-setup.php:25
+msgid "Refresh Templates"
+msgstr "Actualiser les modèles"
+
+#: includes/abstracts/class-evf-form-fields.php:570
+msgid "Enter a message to show for this row if it's required."
+msgstr "Saisir le message à afficher pour cette ligne si elle est nécessaire."
+
+#: includes/abstracts/class-evf-form-fields.php:583
+msgid "Enter a message to show for Address Line 1 if it's required."
+msgstr "Saisir le message à afficher si le champ d’adresse 1 est nécessaire."
+
+#: includes/abstracts/class-evf-form-fields.php:592
+msgid "Enter a message to show for City if it's required."
+msgstr "Saisir le message à afficher si le champ Ville est nécessaire."
+
+#: includes/abstracts/class-evf-form-fields.php:601
+msgid "Enter a message to show for State/Province/Region if it's required."
+msgstr "Saisir le message à afficher si le champ État/province/région est nécessaire."
+
+#: includes/abstracts/class-evf-form-fields.php:610
+msgid "Enter a message to show for Zip/Postal Code if it's required."
+msgstr "Saisir un message pour afficher si le champ Code Postal est nécessaire."
+
+#: includes/abstracts/class-evf-form-fields.php:619
+msgid "Enter a message to show for Country if it's required."
+msgstr "Saisir le message à afficher si pour le champ Pays est nécessaire."
+
+#: includes/abstracts/class-evf-form-fields.php:632
+#: includes/abstracts/class-evf-form-fields.php:678
+msgid "Enter a message to show for this field if it's required."
+msgstr "Saisir le message à afficher si ce champ est nécessaire."
+
+#: includes/abstracts/class-evf-form-fields.php:685
+msgid "Required Field Message"
+msgstr "Message si le champ est nécessaire"
+
+#: includes/abstracts/class-evf-form-fields.php:1127
+msgid "For best results, images should be square and at least 200 × 160 pixels or smaller."
+msgstr "Pour de meilleurs résultats, les images doivent être carrées et d’au moins 200 × 160 pixels ou moins."
+
+#: includes/admin/class-evf-admin-import-export.php:107
+#: includes/admin/class-evf-admin-import-export.php:164
+#: includes/admin/class-evf-admin-import-export.php:171
+#: includes/admin/class-evf-admin-import-export.php:178
+msgid "Invalid file format. Only JSON File Allowed."
+msgstr "Format de fichier non valide. Seul le format JSON est autorisé."
+
+#: includes/admin/settings/class-evf-settings-validation.php:91
+msgid "Checkbox Selection Limit"
+msgstr "Limite de sélection des cases à cocher"
+
+#. translators: %s: Number of plugins
+#: includes/admin/views/html-admin-page-builder-setup.php:135
+msgid "%s plugin successfully installed."
+msgstr "L’extension %s a bien été installée."
+
+#. translators: %s: Number of plugins
+#: includes/admin/views/html-admin-page-builder-setup.php:142
+msgid "%s plugins successfully installed."
+msgstr "Les extensions %s ont bien été installées."
+
+#: includes/admin/views/html-admin-page-export.php:13
+msgid "Export your forms along with their settings as JSON file."
+msgstr "Exportez vos formulaires avec leurs réglages sous forme de fichier JSON."
+
+#: includes/class-evf-ajax.php:443
+msgid "This form template requires the following addons."
+msgstr "Ce modèle de formulaire nécessite les modules suivants."
+
+#: includes/class-evf-frontend-scripts.php:305
+msgid "{count} of {limit} max characters."
+msgstr "{count} sur {limit} caractères maximum."
+
+#: includes/class-evf-frontend-scripts.php:306
+msgid "{count} of {limit} max words."
+msgstr "{count} sur {limit} mots maximum."
+
+#: includes/admin/class-evf-admin-assets.php:275
+msgid "Uplift your form experience to the next level."
+msgstr "Faites passer votre expérience de formulaire à un niveau supérieur."
+
+#: includes/admin/class-evf-admin-assets.php:271
+msgid "This template requires premium addons. Please upgrade to the Premium plan to unlock all these awesome Templates."
+msgstr "Ce modèle nécessite des modules premium. Veuillez mettre à niveau vers l’offre Premium pour débloquer tous ces modèles impressionnants."
+
+#: includes/admin/class-evf-admin-assets.php:267
+msgid "Give it a name."
+msgstr "Donnez-lui un nom."
+
+#: includes/admin/class-evf-admin-assets.php:163
+msgid "Remove Image"
+msgstr "Retirer l’image"
+
+#: includes/admin/class-evf-admin-import-export.php:185
+msgid "Please select json file to import form data."
+msgstr "Veuillez sélectionner un fichier json pour importer les données de formulaire."
+
+#: includes/admin/settings/class-evf-settings-validation.php:92
+msgid "Enter the message for the checkbox selection limit."
+msgstr "Saisissez le message pour la limite de sélection des cases à cocher."
+
+#: includes/admin/settings/class-evf-settings-validation.php:83
+msgid "Enter the message for confirm field value."
+msgstr "Saisissez le message pour confirmer la valeur du champ."
+
+#: includes/admin/views/html-admin-page-import.php:26
+msgid "Import Form"
+msgstr "Importer un formulaire"
+
+#: includes/admin/views/html-admin-page-import.php:15
+msgid "files selected"
+msgstr "fichiers sélectionnés"
+
+#: includes/admin/views/html-admin-page-import.php:13
+msgid "Select JSON file to import the form."
+msgstr "Sélectionnez un fichier JSON pour importer le formulaire."
+
+#: includes/admin/views/html-admin-page-import.php:12
+msgid "Import Everest Forms"
+msgstr "Importer des formulaires Everest Forms"
+
+#. translators: %s: Number of failed installs
+#: includes/admin/views/html-admin-page-builder-setup.php:157
+msgid "%s installs failed."
+msgstr "Les installations de %s ont échoué."
+
+#. translators: %s: Number of failed installs
+#: includes/admin/views/html-admin-page-builder-setup.php:152
+msgid "%s install failed."
+msgstr "L’installation de %s a échoué."
+
+#: includes/admin/views/html-admin-page-builder-setup.php:49
+msgid "Something went wrong. Please refresh your templates."
+msgstr "Quelque chose s’est mal passé, veuillez actualiser vos modèles."
+
+#: includes/admin/views/html-admin-page-builder-setup.php:43
+msgid "Couldn't connect to templates server. Please reload again."
+msgstr "Impossible de se connecter au serveur de modèles. Veuillez recharger."
+
+#: includes/admin/views/html-admin-page-export.php:12
+msgid "Export Everest Forms with Settings"
+msgstr "Exporter des formulaires Everest avec leurs réglages"
+
+#. translators: %d: number of entries, %s: entries status
+#: includes/admin/class-evf-admin-entries-table-list.php:489
+msgid "%1$d entry successfully marked as %2$s."
+msgid_plural "%1$d entries successfully marked as %2$s."
+msgstr[0] "%1$d entrée bien marquée comme %2$s."
+msgstr[1] "%1$d entrées bien marquées comme %2$s."
+
+#. translators: %d: number of entries, %s: entries status
+#: includes/admin/class-evf-admin-entries-table-list.php:473
+msgid "%1$d entry successfully %2$s."
+msgid_plural "%1$d entries successfully %2$s."
+msgstr[0] "%1$d entrée bien %2$s."
+msgstr[1] "%1$d entrées bien %2$s."
+
+#: includes/class-evf-ajax.php:426
+msgid "No Plan specified."
+msgstr "Aucune offre spécifiée."
+
+#: includes/class-evf-ajax.php:405
+msgid "Addon can not be activate. Please try again."
+msgstr "Le module ne peut pas être activé. Veuillez réessayer."
+
+#: includes/fields/class-evf-field-checkbox.php:273
+msgid "Check this option to limit the number of checkboxes a user can select."
+msgstr "Cochez cette option pour limiter le nombre de cases à cocher qu’un utilisateur peut sélectionner."
+
+#: includes/fields/class-evf-field-checkbox.php:272
+msgid "Choice Limit"
+msgstr "Limite des choix"
+
+#: includes/fields/class-evf-field-checkbox.php:252
+#: includes/fields/class-evf-field-radio.php:217
+msgid "Check this option to randomize the order of the choices."
+msgstr "Cochez cette option pour rendre aléatoire l’ordre des choix."
+
+#: includes/fields/class-evf-field-checkbox.php:251
+#: includes/fields/class-evf-field-radio.php:216
+msgid "Randomize Choices"
+msgstr "Rendre les choix aléatoires"
+
+#. translators: %s - Choice Number.
+#: includes/fields/class-evf-field-checkbox.php:174
+msgid "Choice %s"
+msgstr "%s choix"
+
+#: includes/fields/class-evf-field-text.php:109
+#: includes/fields/class-evf-field-text.php:172
+#: includes/fields/class-evf-field-textarea.php:109
+#: includes/fields/class-evf-field-textarea.php:172
+msgid "Words Count"
+msgstr "Compte de mots"
+
+#: includes/abstracts/class-evf-form-fields.php:1600
+msgid "Three Columns"
+msgstr "Trois colonnes"
+
+#: includes/abstracts/class-evf-form-fields.php:1599
+msgid "Two Columns"
+msgstr "Deux colonnes"
+
+#: includes/abstracts/class-evf-form-fields.php:1598
+msgid "One Column"
+msgstr "Une colonne"
+
+#: includes/abstracts/class-evf-form-fields.php:1596
+msgid "Select the column layout for displaying field choices."
+msgstr "Sélectionnez la mise en page de la colonne pour l’affichage des choix de champ."
+
+#: includes/admin/class-evf-admin-assets.php:102
+#: includes/admin/views/html-admin-page-builder-setup.php:89
+msgid "Get Started"
+msgstr "Premiers pas"
+
+#: includes/admin/settings/class-evf-settings-validation.php:73
+msgid "Email Suggestion"
+msgstr "Suggestion d’e-mail"
+
+#: includes/fields/class-evf-field-date-time.php:357
+msgid "Minimum Date"
+msgstr "Date minimale"
+
+#: includes/fields/class-evf-field-date-time.php:379
+msgid "Maximum Date"
+msgstr "Date maximale"
+
+#: includes/admin/settings/class-evf-settings-validation.php:74
+msgid "Enter the message for the valid email suggestion"
+msgstr "Saisir le message de la suggestion d’e-mail valide"
+
+#: includes/class-evf-frontend-scripts.php:293
+msgid "Click to accept this suggestion."
+msgstr "Cliquer pour accepter cette suggestion."
+
+#: includes/fields/class-evf-field-date-time.php:223
+msgid "Date Mode"
+msgstr "Mode de date"
+
+#: includes/fields/class-evf-field-date-time.php:224
+msgid "Select your desire date mode."
+msgstr "Choisir le mode de date souhaité."
+
+#: includes/fields/class-evf-field-date-time.php:239
+msgid "Date Localization"
+msgstr "Localisation de la date"
+
+#: includes/fields/class-evf-field-date-time.php:240
+msgid "Choose a desire date localization to display."
+msgstr "Choisir une localisation de date désirée à afficher."
+
+#: includes/fields/class-evf-field-date-time.php:346
+msgid "Enable Min Max date."
+msgstr "Activez la date Min/Max."
+
+#: includes/fields/class-evf-field-date-time.php:347
+msgid "Check this option to set min max date."
+msgstr "Cochez cette option pour définir la date min max."
+
+#: includes/fields/class-evf-field-date-time.php:358
+msgid "Select minium date."
+msgstr "Définir la date minimale."
+
+#: includes/fields/class-evf-field-date-time.php:380
+msgid "Select maximum date."
+msgstr "Définir la date maximale."
+
+#: includes/admin/settings/class-evf-settings-validation.php:79
+#: includes/class-evf-frontend-scripts.php:292
+msgid "Did you mean {suggestion}?"
+msgstr "Voulez-vous dire {suggestion} ?"
+
+#: includes/admin/class-evf-admin-welcome.php:96
+msgid "Create Your First Form"
+msgstr "Créez votre premier formulaire"
+
+#: includes/fields/class-evf-field-email.php:117
+#: includes/fields/class-evf-field-email.php:270
+msgid "Confirm Email"
+msgstr "Confirmez votre e-mail"
+
+#: includes/fields/class-evf-field-email.php:203
+msgid "Enable Email Confirmation"
+msgstr "Activer la confirmation par e-mail"
+
+#: includes/fields/class-evf-field-email.php:226
+msgid "Confirmation Placeholder Text"
+msgstr "Texte de l’espace réservé de confirmation"
+
+#: includes/fields/class-evf-field-email.php:227
+msgid "Enter text for the confirmation field placeholder."
+msgstr "Entrez le texte de l’espace réservé du champ de confirmation."
+
+#: includes/admin/class-evf-admin-welcome.php:36
+#: includes/admin/class-evf-admin-welcome.php:37
+#: includes/admin/class-evf-admin-welcome.php:83
+msgid "Welcome to Everest Forms"
+msgstr "Bienvenue sur Everest Forms"
+
+#: includes/admin/class-evf-admin-welcome.php:84
+msgid "Thank you for choosing Everest Forms, the most powerful and easy drag & drop WordPress form builder in the market."
+msgstr "Merci d’avoir choisi Everest Forms, le générateur de formulaires WordPress par glisser-déposer le plus puissant et le plus facile du marché."
+
+#: includes/admin/class-evf-admin-welcome.php:87
+msgid "Watch how to create your first form with Everest Forms"
+msgstr "Découvrez comment créer votre premier formulaire avec Everest Forms"
+
+#: includes/admin/class-evf-admin-welcome.php:97
+msgid "Let's get started with the first contact forms for your site."
+msgstr "Commençons par un premier formulaire de contact pour votre site."
+
+#: includes/admin/class-evf-admin-welcome.php:105
+msgid "Read The Full Guide"
+msgstr "Lire le guide complet"
+
+#: includes/admin/class-evf-admin-welcome.php:106
+msgid "Read our step by step guide on how to create your first form."
+msgstr "Consultez notre guide étape par étape pour créer votre premier formulaire."
+
+#: includes/fields/class-evf-field-email.php:204
+msgid "Check to enable email confirmation."
+msgstr "Cocher pour activer la confirmation par e-mail."
+
+#: includes/fields/class-evf-field-email.php:413
+msgid "Confirmation Email do not match."
+msgstr "L’e-mail de confirmation ne correspond pas."
+
+#: includes/admin/class-evf-admin-welcome.php:75
+msgid "Getting Started"
+msgstr "Premiers pas"
+
+#: includes/admin/views/html-notice-review.php:25
+msgid "Sure, I'd love to!"
+msgstr "Évidemment ! J’adorerais aider !"
+
+#: includes/admin/views/html-notice-review.php:26
+msgid "Remind me later"
+msgstr "Rappelez-moi plus tard"
+
+#: includes/admin/views/html-notice-review.php:27
+#: includes/admin/views/html-notice-survey.php:40
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: includes/admin/class-evf-admin-assets.php:237
+msgid "Please enter in meta key with alphanumeric characters, dashes and underscores."
+msgstr "Veuillez saisir une méta-clé avec des caractères alphanumériques, des tirets et des traits de soulignement."
+
+#: includes/admin/builder/class-evf-builder-fields.php:98
+msgid "Form not found."
+msgstr "Formulaire non trouvé."
+
+#: includes/admin/builder/class-evf-builder-settings.php:143
+msgid "Form description"
+msgstr "Description du formulaire"
+
+#: includes/admin/builder/class-evf-builder-settings.php:147
+msgid "Give the description to this form"
+msgstr "Décrire ce formulaire"
+
+#: includes/admin/builder/class-evf-builder-settings.php:155
+msgid "Form disabled message"
+msgstr "Message de formulaire désactivé"
+
+#: includes/admin/builder/class-evf-builder-settings.php:158
+#: includes/shortcodes/class-evf-shortcode-form.php:883
+msgid "This form is disabled."
+msgstr "Ce formulaire est désactivé."
+
+#: includes/admin/class-evf-admin-assets.php:160
+msgid "Turn on Email settings to manage your email notification."
+msgstr "Activez les réglages de messagerie pour gérer vos notifications par e-mail."
+
+#. translators: %d - New form entries count.
+#: includes/admin/class-evf-admin-entries.php:385
+msgid "%d new entry since you last checked."
+msgid_plural "%d new entries since you last checked."
+msgstr[0] "%d nouvelle entrée depuis votre dernière vérification."
+msgstr[1] "%d nouvelles entrées depuis votre dernière vérification."
+
+#: includes/class-evf-ajax.php:350
+msgid "Form not found"
+msgstr "Formulaire non trouvé"
+
+#: includes/class-evf-form-block.php:110
+msgid "Show Title"
+msgstr "Afficher le titre"
+
+#: includes/class-evf-form-block.php:111
+msgid "Show Description"
+msgstr "Afficher le description"
+
+#: includes/admin/builder/class-evf-builder-settings.php:159
+msgid "Message that shows up if the form is disabled."
+msgstr "Message qui s’affiche si le formulaire est désactivé."
+
+#: includes/class-evf-ajax.php:345 includes/class-evf-ajax.php:351
+msgid "An error occurred while saving the form."
+msgstr "Une erreur s’est produite lors de l’enregistrement du formulaire."
+
+#: includes/abstracts/class-evf-form-fields.php:1496
+msgid "Enter CSS class names for this field container. Multiple class names should be separated with spaces."
+msgstr "Entrez les noms de classe CSS pour ce champ. Plusieurs noms de classe doivent être séparés avec des espaces."
+
+#: includes/admin/builder/class-evf-builder-settings.php:135
+msgid "Give a name to this form"
+msgstr "Nommer ce formulaire"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:284
+msgid "Enter CSS class names for the form wrapper. Multiple class names should be separated with spaces. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "Entrez les noms de classe CSS pour le conteneur de formulaire. Les noms de classe multiples doivent être séparés avec des espaces. <a href=\"%s\" target=\"_blank\">En savoir plus</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:299
+msgid "Enter desired text for submit button."
+msgstr "Entrez le texte du bouton de soumission."
+
+#: includes/admin/builder/class-evf-builder-settings.php:309
+#: includes/shortcodes/class-evf-shortcode-form.php:109
+#: includes/shortcodes/class-evf-shortcode-form.php:152
+msgid "Processing&hellip;"
+msgstr "En traitement…"
+
+#: includes/admin/builder/class-evf-builder-settings.php:310
+msgid "Enter the submit button text that you would like the button to display while the form submission is processing."
+msgstr "Entrez le texte du bouton de soumission affiché pendant le traitement de la soumission du formulaire."
+
+#: includes/admin/builder/class-evf-builder-settings.php:321
+msgid "Enter CSS class names for submit button. Multiple class names should be separated with spaces."
+msgstr "Entrez les classes CSS du bouton de soumission. Plusieurs noms de classe doivent être séparés avec des espaces."
+
+#: includes/admin/builder/class-evf-builder-settings.php:332
+msgid "Enable anti-spam honeypot"
+msgstr "Activer honeypot anti-spam"
+
+#: includes/admin/builder/class-evf-builder-settings.php:346
+msgid "Enable Google reCAPTCHA v3"
+msgstr "Activez Google reCAPTCHA v3"
+
+#: includes/admin/builder/class-evf-builder-settings.php:353
+msgid "Enable Google Invisible reCAPTCHA v2"
+msgstr "Activez Google Invisible reCAPTCHA v2"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:389
+msgid "Disable storing form entries. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Désactiver les entrées de formulaire de stockage. <a href=\"%1$s\" target=\"_blank\">En savoir plus</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:478
+msgid "Enter the recipient's email address (comma separated) to receive form entry notifications. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "Entrez l’adresse e-mail du destinataire (virgule séparée) pour recevoir des notifications d’entrée du formulaire. <a href=\"%s\" target=\"_blank\">En savoir plus</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:493
+msgid "Cc Address"
+msgstr "Adresse Cc"
+
+#: includes/admin/builder/class-evf-builder-settings.php:496
+msgid "Enter Cc recipient's email address (comma separated) to receive form entry notifications."
+msgstr "Saisir l’adresse e-mail du destinataire de Cc (virgule séparée) pour recevoir des notifications d’entrée du formulaire."
+
+#: includes/admin/builder/class-evf-builder-settings.php:510
+msgid "Bcc Address"
+msgstr "Adresse Bcc"
+
+#: includes/admin/builder/class-evf-builder-settings.php:513
+msgid "Enter Bcc recipient's email address (comma separated) to receive form entry notifications."
+msgstr "Saisir l’adresse e-mail du destinataire Bcc (virgule séparée) pour recevoir des notifications d’entrée de formulaire."
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:532
+msgid "Enter the From Name to be displayed in Email. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Entrez le nom de From pour être affiché dans e-mail. <a href=\"%1$s\" target=\"_blank\">En savoir plus</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:550
+msgid "Enter the Email address from which you want to send Email. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "Entrez l’adresse e-mail à partir de laquelle vous souhaitez envoyer un e-mail. <a href=\"%s\" target=\"_blank\">En savoir plus</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:568
+msgid "Enter the reply to email address where you want the email to be received when this email is replied. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Entrez la réponse à l’adresse e-mail où vous souhaitez que l’e-mail soit reçu lorsque cet e-mail est répondu. <a href=\"%1$s\" target=\"_blank\">En savoir plus</a>"
+
+#. translators: %1$s - General Settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:587
+msgid "Enter the subject of the email. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Entrez le sujet de l’e-mail. <a href=\"%1$s\" target=\"_blank\">En savoir plus</a>"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:605
+msgid "Enter the message of the email. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Entrez le message de l’e-mail. <a href=\"%1$s\" target=\"_blank\">En savoir plus</a>"
+
+#. translators: %s - all fields smart tag.
+#: includes/admin/builder/class-evf-builder-settings.php:613
+msgid "To display all form fields, use the %s Smart Tag."
+msgstr "Pour afficher tous les champs de formulaire, utilisez la balise active %s."
+
+#: includes/admin/class-evf-admin-notices.php:124
+msgid "You don&#8217;t have permission to do this."
+msgstr "Vous n’êtes pas autorisé à effectuer cette opération."
+
+#: includes/admin/settings/class-evf-settings-email.php:53
+msgid "HTML Template"
+msgstr "Modèle HTML"
+
+#: includes/admin/settings/class-evf-settings-email.php:57
+msgid "Plain text"
+msgstr "Texte brut"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:64
+msgid "reCAPTCHA v2"
+msgstr "reCAPTCHA V2"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:65
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA (v3)"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:112
+msgid "Invisible reCAPTCHA"
+msgstr "ReCAPTCHA invisible"
+
+#: includes/admin/views/html-notice-update.php:25
+msgid "Update Everest Forms Database"
+msgstr "Mettre à jour la base de données d’Everest Forms"
+
+#: includes/class-evf-form-block.php:103
+msgid "form"
+msgstr "formulaire"
+
+#: includes/class-evf-form-block.php:104
+msgid "contact"
+msgstr "contact"
+
+#: includes/class-evf-form-block.php:105
+msgid "survey"
+msgstr "sondage"
+
+#: includes/evf-core-functions.php:120
+msgid "action_args should not be overwritten when calling evf_get_template."
+msgstr "action_args ne doit pas être écrasé lors de l’appel evf_get_template."
+
+#: includes/fields/class-evf-field-credit-card.php:20
+msgid "Credit Card"
+msgstr "Carte Bancaire"
+
+#: includes/fields/class-evf-field-date-time.php:20
+msgid "Date / Time"
+msgstr "Date & heure"
+
+#: includes/fields/class-evf-field-date-time.php:71
+msgid "Format"
+msgstr "Format"
+
+#: includes/fields/class-evf-field-date-time.php:84
+#: includes/fields/class-evf-field-date-time.php:405
+msgid "Time"
+msgstr "Heure"
+
+#: includes/fields/class-evf-field-date-time.php:85
+msgid "Both"
+msgstr "Les deux"
+
+#: includes/fields/class-evf-field-date-time.php:152
+msgid "Date & Time Format"
+msgstr "Formats de date/heure"
+
+#: includes/fields/class-evf-field-date-time.php:167
+msgid "Date Format"
+msgstr "Format de Date"
+
+#: includes/fields/class-evf-field-date-time.php:427
+msgid "15 minutes"
+msgstr "15 minutes"
+
+#: includes/fields/class-evf-field-date-time.php:428
+msgid "30 minutes"
+msgstr "30 minutes"
+
+#: includes/fields/class-evf-field-date-time.php:441
+msgid "12 H"
+msgstr "12 H"
+
+#: includes/fields/class-evf-field-date-time.php:442
+msgid "24 H"
+msgstr "24H00"
+
+#: includes/fields/class-evf-field-number.php:70
+msgid "Step"
+msgstr "Étape"
+
+#: includes/fields/class-evf-field-number.php:108
+msgid "Min Value"
+msgstr "Valeur minimale"
+
+#: includes/fields/class-evf-field-number.php:146
+msgid "Max Value"
+msgstr "Valeur maximale"
+
+#: includes/abstracts/class-evf-form-fields.php:418
+#: includes/evf-core-functions.php:1935
+msgid "Enter text for the form field label. This is recommended and can be hidden in the Advanced Settings."
+msgstr "Saisir le texte du libellé du champ de formulaire. Ceci est recommandé mais peut être masqué dans les réglages avancés."
+
+#: includes/abstracts/class-evf-form-fields.php:528
+msgid "Check this option to mark the field required. A form will not submit unless all required fields are provided."
+msgstr "Cocher pour marquer le champ comme requis. Un formulaire ne sera pas soumis à moins que tous les champs obligatoires soient fournis."
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:172
+msgid "Success message that shows up after submitting form. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Message de réussite qui s’affiche après l’envoi du formulaire. <a href=\"%1$s\" target=\"_blank\">En savoir plus</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:180
+msgid "Automatically scroll to the submission message"
+msgstr "Faites défiler automatiquement jusqu’au message d’envoi"
+
+#. translators: %1$s - general settings docs url
+#: includes/admin/builder/class-evf-builder-settings.php:197
+msgid "Choose where to redirect after form submission. <a href=\"%s\" target=\"_blank\">Learn More</a>"
+msgstr "Choisir où rediriger après l’envoi du formulaire. <a href=\"%s\" target=\"_blank\">En savoir plus</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:268
+msgid "Choose design template for the Form"
+msgstr "Choisir le modèle pour le formulaire"
+
+#: includes/admin/builder/class-evf-builder-settings.php:290
+msgid "Submit Button"
+msgstr "Bouton d’envoi"
+
+#: includes/admin/builder/class-evf-builder-settings.php:307
+msgid "Submit button processing text"
+msgstr "Texte du bouton lors de l’envoi"
+
+#: includes/admin/class-evf-admin-assets.php:201
+msgid "Please enable Stripe"
+msgstr "Veuillez activer Stripe"
+
+#: includes/admin/class-evf-admin-assets.php:202
+msgid "Enable Stripe Payment gateway in payments section to use this field."
+msgstr "Activer la passerelle de paiement Stripe dans la section des paiements pour utiliser ce champ."
+
+#: includes/admin/class-evf-admin-assets.php:238
+msgid "Minimum value is greater than Maximum value."
+msgstr "La valeur minimale est supérieure à la valeur maximale."
+
+#: includes/admin/class-evf-admin-assets.php:239
+msgid "Maximum value is smaller than Minimum value."
+msgstr "La valeur maximale est inférieure à la valeur minimale."
+
+#: includes/admin/settings/class-evf-settings-email.php:49
+msgid "Determine which format of email to send. HTML Template is default."
+msgstr "Déterminer le format de l’e-mail à envoyer. Le modèle par défaut est en HTML."
+
+#: includes/admin/settings/class-evf-settings-email.php:63
+msgid "Enable copies"
+msgstr "Activer les copies"
+
+#: includes/admin/settings/class-evf-settings-email.php:64
+msgid "Enable the use of Cc and Bcc email addresses"
+msgstr "Activer l’utilisation des adresses e-mail Cc et Cci"
+
+#: includes/admin/settings/class-evf-settings-email.php:65
+msgid "Email addresses for Cc and Bcc can be applied from the form notification settings."
+msgstr "Les adresses e-mail pour Cc et Cci peuvent être appliquées à partir des réglages de notification de formulaire."
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:85
+#: includes/admin/settings/class-evf-settings-recaptcha.php:105
+msgid "Please enter your secret key for your reCAPTCHA v2. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Veuillez saisir la clé secrète de votre site pour votre reCAPTCHA v2. <a href=\"%1$s\" target=\"_blank\">En savoir pluse</a>"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:114
+msgid "Enable Invisible reCAPTCHA."
+msgstr "Activez la reCAPTCHA invisible."
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:123
+msgid "Please enter your site key for your reCAPTCHA v3. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Veuillez saisir la clé de votre site pour votre reCAPTCHA v3. <a href=\"%1$s\" target=\"_blank\">En savoir pluse</a>"
+
+#: includes/admin/views/html-notice-update.php:18
+msgid "Everest Forms database update required"
+msgstr "Mise à jour de la base de données Everest Forms nécessaire"
+
+#: includes/class-evf-form-task.php:380
+msgid "Everest Forms honeypot field triggered."
+msgstr "Champ de pot de miel Everest Forms déclenché."
+
+#: includes/fields/class-evf-field-date-time.php:72
+msgid "Select a format for the date field."
+msgstr "Choisir un format pour le champ de date."
+
+#: includes/fields/class-evf-field-date-time.php:153
+msgid "Advanced date and time formatting options."
+msgstr "Options avancées de formatage de la date et de l’heure."
+
+#: includes/fields/class-evf-field-date-time.php:168
+msgid "Choose a desire date format to display."
+msgstr "Choisir le format de date souhaité à afficher."
+
+#: includes/fields/class-evf-field-date-time.php:322
+msgid "Default to current date."
+msgstr "Par défaut à la date actuelle."
+
+#: includes/fields/class-evf-field-date-time.php:323
+msgid "Check this option to set current date as default."
+msgstr "Cocher pour définir la date actuelle par défaut."
+
+#: includes/fields/class-evf-field-date-time.php:412
+msgid "Time interval and format"
+msgstr "Intervalle de temps et format"
+
+#: includes/fields/class-evf-field-date-time.php:413
+msgid "Choose time interval and format to display."
+msgstr "Choisir l’intervalle de temps et le format à afficher."
+
+#: includes/fields/class-evf-field-number.php:71
+msgid "Allows users to enter specific legal number intervals."
+msgstr "Permet aux utilisateurs d’entrer des intervalles de numéros légaux spécifiques."
+
+#: includes/fields/class-evf-field-number.php:109
+msgid "Minimum value user is allowed to enter."
+msgstr "Valeur minimale que l’utilisateur est autorisé à saisir."
+
+#: includes/fields/class-evf-field-number.php:147
+msgid "Maximum value user is allowed to enter."
+msgstr "Valeur maximale que l’utilisateur est autorisé à saisir."
+
+#. translators: %s - minimum value.
+#: includes/fields/class-evf-field-number.php:302
+msgid "Please enter a value greater than or equal to %s"
+msgstr "Veuillez saisir une valeur supérieure ou égale à %s"
+
+#. translators: %s - maximum value.
+#: includes/fields/class-evf-field-number.php:306
+msgid "Please enter a value less than or equal to %s"
+msgstr "Veuillez saisir une valeur inférieure ou égale à %s"
+
+#. translators: %1$s - Google reCAPTCHA docs url
+#: includes/admin/settings/class-evf-settings-recaptcha.php:75
+#: includes/admin/settings/class-evf-settings-recaptcha.php:95
+msgid "Please enter your site key for your reCAPTCHA v2. <a href=\"%1$s\" target=\"_blank\">Learn More</a>"
+msgstr "Veuillez saisir la clé de votre site pour votre reCAPTCHA v2. <a href=\"%1$s\" target=\"_blank\">En savoir plus</a>"
+
+#: includes/admin/builder/class-evf-builder-settings.php:318
+msgid "Submit button class"
+msgstr "Classe CSS du bouton d’envoi"
+
+#: includes/admin/views/html-notice-update.php:21
+msgid "Everest Forms has been updated! To keep things running smoothly, we have to update your database to the newest version. The database update process runs in the background and may take a little while, so please be patient."
+msgstr "Everest Forms a été mis à jour ! Pour que tout fonctionne bien, nous devons mettre à jour votre base de données vers la dernière version. Le processus de mise à jour de la base de données s’exécute en arrière-plan et peut prendre un peu de temps, soyez patient."
+
+#: includes/fields/class-evf-field-signature.php:20
+msgid "Signature"
+msgstr "Signature"
+
+#: includes/evf-core-functions.php:1909
+msgid "Survey Fields"
+msgstr "Champs d’enquête"
+
+#: includes/fields/class-evf-field-rating.php:20
+msgid "Rating"
+msgstr "Notation"
+
+#: includes/fields/class-evf-field-scale-rating.php:20
+msgid "Scale Rating"
+msgstr "Échelle d’évaluation"
+
+#. translators: %s: Entry ID
+#: includes/admin/views/html-admin-page-entries-view.php:42
+msgid "%1$s: Entry #%2$s"
+msgstr "%1$s : entrée N° %2$s"
+
+#: includes/fields/class-evf-field-likert.php:20
+msgid "Likert"
+msgstr "Likert"
+
+#. translators: %s: Form Name
+#: includes/admin/builder/class-evf-builder-settings.php:408
+#: includes/admin/builder/class-evf-builder-settings.php:585
+#: includes/templates/contact.php:77
+msgid "New Form Entry %s"
+msgstr "Entrée de formulaire nouvelle %s"
+
+#: includes/admin/evf-admin-functions.php:433
+msgid "Available Fields"
+msgstr "Champs disponibles"
+
+#: includes/admin/evf-admin-functions.php:437
+msgid "Others"
+msgstr "Autres"
+
+#: includes/class-evf-smart-tags.php:34
+msgid "Site Name"
+msgstr "Nom du site"
+
+#: includes/class-evf-smart-tags.php:35
+msgid "Site URL"
+msgstr "URL du site"
+
+#: includes/class-evf-smart-tags.php:36
+msgid "Page Title"
+msgstr "Titre de la page"
+
+#: includes/class-evf-smart-tags.php:38
+msgid "Page ID"
+msgstr "ID de la page"
+
+#: includes/class-evf-smart-tags.php:45
+msgid "User ID"
+msgstr "ID de l’utilisateur"
+
+#: includes/class-evf-smart-tags.php:47
+msgid "User Name"
+msgstr "Nom d’utilisateur"
+
+#: includes/class-evf-smart-tags.php:51
+msgid "User Email"
+msgstr "Adresse e-mail de l’utilisateur"
+
+#: includes/class-evf-smart-tags.php:53
+msgid "Referrer URL"
+msgstr "URL de référence"
+
+#: includes/class-evf-smart-tags.php:33
+msgid "Site Admin Email"
+msgstr "E-mail de l’administrateur"
+
+#: includes/class-evf-smart-tags.php:37
+msgid "Page URL"
+msgstr "URL de la page"
+
+#. Description of the plugin
+msgid "Drag and Drop contact form builder to easily create simple to complex forms for any purpose. Lightweight, Beautiful design, responsive and more."
+msgstr "Créateur de formulaires de contact par glisser-déposer pour créer facilement des formulaires simples ou complexes pour n’importe quel but. Léger, moderne, responsive et plus encore."
+
+#: includes/admin/builder/class-evf-builder-settings.php:77
+#: includes/admin/builder/class-evf-builder-settings.php:402
+#: includes/admin/builder/class-evf-builder-settings.php:462
+#: includes/class-evf-form-task.php:820 includes/evf-update-functions.php:140
+#: includes/templates/contact.php:71
+msgid "Admin Notification"
+msgstr "Notification à l’admin"
+
+#: includes/admin/builder/class-evf-builder-settings.php:83
+msgid "Add New Email"
+msgstr "Nouveau e-mail"
+
+#: includes/admin/builder/class-evf-builder-settings.php:87
+msgid "Email Notifications"
+msgstr "Notifications e-mail"
+
+#: includes/admin/builder/class-evf-builder-settings.php:419
+#: includes/evf-update-functions.php:156
+msgid "User Notification"
+msgstr "Notification utilisateur"
+
+#: includes/admin/class-evf-admin-assets.php:220
+msgid "You must provide a Email nickname"
+msgstr "Vous devez fournir un surnom d’e-mail"
+
+#: includes/admin/class-evf-admin-assets.php:218
+msgid "Enter a Email nickname"
+msgstr "Saisir un surnom d’e-mail"
+
+#: includes/admin/class-evf-admin-assets.php:219
+msgid "Eg: Support Email"
+msgstr "Ex. : e-mail de support"
+
+#. translators: %s: Add-on title
+#: includes/admin/views/html-admin-page-addons.php:90
+msgid "Deactivate %s now"
+msgstr "Désactiver %s maintenant"
+
+#. translators: %s: Add-on title
+#: includes/admin/views/html-admin-page-addons.php:108
+msgid "Activate %s now"
+msgstr "Activer %s maintenant"
+
+#. translators: %s: Add-on title
+#: includes/admin/views/html-admin-page-addons.php:126
+msgid "Install %s now"
+msgstr "Installer %s maintenant"
+
+#: includes/class-evf-form-block.php:101
+msgid "Select and display one of your forms."
+msgstr "Supprimer ce formulaire."
+
+#: includes/class-evf-form-block.php:107
+msgid "Select a Form"
+msgstr "Choisir un formulaire"
+
+#: includes/class-evf-form-block.php:108
+msgid "Form Settings"
+msgstr "Réglages du formulaire"
+
+#: includes/admin/builder/class-evf-builder-settings.php:564
+msgid "Reply To"
+msgstr "Répondre à"
+
+#: includes/class-evf-privacy.php:49
+msgid "While you visit our site, we’ll track:"
+msgstr "Pendant votre visite du site, nous suivons  :"
+
+#: includes/class-evf-privacy.php:51
+msgid "Form Fields Data: Forms Fields data includes the available field types when creating a form. We’ll use this to, for example, collect informations like Name, Email and other available fields."
+msgstr "Données de champs de formulaire  : les données de champs de formulaires incluent les types de champs disponibles lors de la création d’un formulaire. Nous allons utiliser cela pour, par exemple, collecter des informations telles que Nom, E-mail et autres champs disponibles."
+
+#: includes/class-evf-privacy.php:52
+msgid "Location, IP address and browser type: we’ll use this for purposes like geolocating users and reducing fraudulent activities."
+msgstr "Position, adresse IP et type de navigateur  : nous l’utilisons à des fins telles que la géolocalisation des utilisateurs et la réduction des activités frauduleuses."
+
+#: includes/class-evf-privacy.php:53
+msgid "Transaction Details: we’ll ask you to enter this so we can, for instance, provide subscription packs, and keep track of your payment details for subscription packs!"
+msgstr "Détails de la transaction  : nous vous demanderons de saisir cette information afin de pouvoir, par exemple, vous fournir des offres d’abonnement et garder une trace de vos détails de paiement pour les offres d’abonnement !"
+
+#: includes/class-evf-privacy.php:55
+msgid "We’ll also use cookies to keep track of form elements while you’re browsing our site."
+msgstr "Nous utiliserons également des cookies pour suivre les éléments de formulaire lorsque vous naviguez sur notre site."
+
+#: includes/class-evf-privacy.php:56
+msgid "Note: you may want to further detail your cookie policy, and link to that section from here."
+msgstr "Note  : vous pouvez détailler votre politique de cookies, et faire un lien vers cette section à partir d’ici."
+
+#: includes/class-evf-privacy.php:59
+msgid "Send you information about your account and order"
+msgstr "Envoie de l’information à propos de votre compte et commande"
+
+#: includes/class-evf-privacy.php:60
+msgid "Respond to your requests, including transaction details and complaints"
+msgstr "Répondre à vos demandes, y compris les détails de la transaction et les plaintes."
+
+#: includes/class-evf-privacy.php:61
+msgid "Process payments and prevent fraud"
+msgstr "Traitement des paiements et prévention de la fraude"
+
+#: includes/class-evf-privacy.php:62
+msgid "Set up your account for our site"
+msgstr "Configurez votre compte pour notre site"
+
+#: includes/class-evf-privacy.php:63
+msgid "Comply with any legal obligations we have, such as calculating taxes"
+msgstr "Se conformer avec toute obligation légale, telle que le calcul des taxes"
+
+#: includes/class-evf-privacy.php:64
+msgid "Improve our form offerings"
+msgstr "Améliorer nos offres de formulaires"
+
+#: includes/class-evf-privacy.php:65
+msgid "Send you marketing messages, if you choose to receive them"
+msgstr "Vous envoyer des messages marketing, si vous choisissez d’en recevoir"
+
+#: includes/class-evf-privacy.php:66
+msgid "Or any other service the built form was created to comply with and it’s necessary information"
+msgstr "Ou tout autre service pour lequel le formulaire a été créé pour compléter les informations nécessaires."
+
+#: includes/class-evf-privacy.php:68
+msgid "If you create an account, we will store your name, address, email and phone number, which will be used to populate the form fields for future submissions."
+msgstr "Si vous créez un compte, nous enregistrerons votre nom, votre adresse, votre adresse e-mail et votre numéro de téléphone, qui seront utilisés pour renseigner les champs du formulaire lors de futures soumissions."
+
+#: includes/class-evf-privacy.php:69
+msgid "We generally store information about you for as long as we need the information for the purposes for which we collect and use it, and we are not legally required to continue to keep it. For example, we will store form submission information for XXX years for geolocating and marketting purposes. This includes your name, address, email, phone number."
+msgstr "Nous stockons généralement des informations vous concernant aussi longtemps que nous en avons besoin aux fins pour lesquelles nous les recueillons et les utilisons, et nous ne sommes pas tenus légalement de continuer à les conserver. Par exemple, nous allons stocker les informations de soumission de formulaire pour les XXX années à des fins de géolocalisation et de marquage. Cela inclut votre nom, adresse, e-mail et n° de téléphone."
+
+#: includes/class-evf-privacy.php:70
+msgid "Who on our team has access"
+msgstr "Qui de notre équipe a accès aux données"
+
+#: includes/class-evf-privacy.php:71
+msgid "Members of our team have access to the information you provide us. For example, both Administrators and Editors can access:"
+msgstr "Les membres de notre équipe ont accès aux informations que vous nous fournissez. Par exemple, les administrateurs et les éditeurs peuvent accéder à  :"
+
+#: includes/class-evf-privacy.php:73
+msgid "Form submission information and other details related to it"
+msgstr "Informations d’envois de formulaire et autres détails s’y rapportant."
+
+#: includes/class-evf-privacy.php:74
+msgid "Customer information like your name, email and address information."
+msgstr "Les informations client comme votre nom, e-mail et adresse."
+
+#: includes/class-evf-privacy.php:76
+msgid "Our team members have access to this information to help fulfill entries and support you."
+msgstr "Les membres de notre équipe ont accès à ces informations pour vous aider à remplir les entrées et vous aider."
+
+#: includes/class-evf-privacy.php:77
+msgid "What we share with others"
+msgstr "Ce que nous partageons avec d’autres"
+
+#: includes/class-evf-privacy.php:78
+msgid "In this section you should list who you’re sharing data with, and for what purpose. This could include, but may not be limited to, analytics, marketing, payment gateways, shipping providers, and third party embeds."
+msgstr "Dans cette section, vous devez lister avec qui vous partagez des données, et pour quelle fin. Ceci inclut, mais n’est pas limité à, statistiques, marketing, passerelles de paiement, transporteurs, et contenus tiers."
+
+#: includes/class-evf-privacy.php:81
+msgid "In this subsection you should list which third party payment processors you’re using to take payments on your site since these may handle customer data. We’ve included PayPal as an example, but you should remove this if you’re not using PayPal."
+msgstr "Dans cette sous-section, vous devez répertorier les passerelles de paiement tiers que vous utilisez pour effectuer des paiements sur votre site, car elles peuvent gérer les données des clients. Nous avons inclus PayPal à titre d’exemple, mais vous devez la supprimer si vous n’utilisez pas PayPal."
+
+#: includes/class-evf-privacy.php:82
+msgid "We accept payments through PayPal. When processing payments, some of your data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information."
+msgstr "Nous acceptons les paiements par PayPal. Lors du traitement des paiements, certains données seront transmises à PayPal, incluant l’information obligatoires à l’exécution du paiement, tel que le montant total ou les informations de facturation."
+
+#: includes/class-evf-privacy.php:84
+msgid "Available Modules"
+msgstr "Modules disponibles"
+
+#: includes/class-evf-privacy.php:85
+msgid "In this subsection you should list which third party modules you’re using to increase functionality on your site since these may handle customer data. We’ve included MailChimp as an example, but you should remove this if you’re not using MailChimp."
+msgstr "Dans cette sous-section, vous devez répertorier les modules tiers que vous utilisez pour améliorer les fonctionnalités de votre site, car ils peuvent gérer les données client. Nous avons inclus MailChimp à titre d’exemple, mais vous devez le supprimer si vous n’utilisez pas MailChimp."
+
+#. translators: %s - Form name.
+#: includes/class-evf-template-loader.php:196
+msgid "%s &ndash; Preview"
+msgstr "%s &ndash; Prévisualiser"
+
+#: includes/class-evf-privacy.php:57
+msgid "When you fill up a form, we’ll ask you to provide information including your name, address, email, phone number, credit card/payment details and optional account information like username and password and any other form fields available in the form builder. We’ll use this information for purposes, such as, to:"
+msgstr "Lorsque vous remplissez un formulaire, nous vous demandons de fournir des informations, notamment votre nom, votre adresse, votre e-mail, votre numéro de téléphone, vos informations de carte de crédit/paiement et des informations de compte facultatives telles que le nom d’utilisateur et le mot de passe et tout autre champ de formulaire disponible dans le générateur de formulaires. Nous utiliserons ces informations à des fins telles que :"
+
+#: includes/class-evf-privacy.php:87
+msgid "Please see the <a href=\"https://mailchimp.com/legal/privacy/\">MailChimp Privacy Policy</a> for more details."
+msgstr "Veuillez consulter la <a href=\"https://mailchimp.com/legal/privacy/\">politique de confidentialité MailChimp</a> pour plus de détails."
+
+#: includes/class-evf-privacy.php:83
+msgid "Please see the <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">PayPal Privacy Policy</a> for more details."
+msgstr "Veuillez lire la <a href=\"https://www.paypal.com/us/webapps/mpp/ua/privacy-full\">politique de confidentialité de PayPal</a> pour plus de détails."
+
+#: includes/class-evf-privacy.php:86
+msgid "We send beautiful email through MailChimp. When processing emails, some of your data will be passed to MailChimp, including information required to process or support the email marketing services, such as the name, email address and any other information that you intend to pass or collect including all collected information through subscription."
+msgstr "Nous envoyons de beaux e-mails via MailChimp. Lors du traitement des e-mails, certaines de vos données seront transmises à MailChimp, y compris les informations nécessaires au traitement ou à la prise en charge des services de marketing par e-mail, telles que le nom, l’adresse e-mail et toute autre information que vous souhaitez transmettre ou collecter, y compris toutes les informations collectées par abonnement."
+
+#: includes/class-evf-privacy.php:79
+msgid "We share information with third parties who help us provide our orders and store services to you; for example --"
+msgstr "Nous partageons des données avec des tiers qui nous aident à gérer nos commandes et services de la boutique ; par exemple --"
+
+#: includes/admin/class-evf-admin-assets.php:103
+#: includes/admin/class-evf-admin-forms-table-list.php:201
+#: includes/admin/views/html-admin-page-builder-setup.php:90
+#: includes/admin/views/html-admin-page-builder.php:55
+msgid "Preview"
+msgstr "Aperçu"
+
+#: includes/class-evf-privacy.php:45
+msgid "This sample policy includes the basics around what personal data you may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your form will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Cet exemple de politique de confidentialité inclut les bases concernant les données personnelles que vous pouvez collecter, stocker et partager, ainsi que les personnes pouvant accéder à ces données. Selon les réglages activés et les extensions utilisées, les informations spécifiques partagées par votre formulaire varient. Nous vous recommandons de consulter un avocat avant de décider quelles informations divulguer dans votre politique de confidentialité."
+
+#: includes/class-evf-privacy.php:48
+msgid "What we collect and store"
+msgstr "Ce que nous collectons et stockons"
+
+#: includes/class-evf-privacy.php:47
+msgid "We collect information about you during the form submission process on our site."
+msgstr "Nous collectons des informations vous concernant pendant le processus d’envoi de formulaire sur notre site."
+
+#: includes/abstracts/class-evf-settings-api.php:680
+msgid "Select all"
+msgstr "Tout sélectionner"
+
+#: includes/abstracts/class-evf-settings-api.php:680
+msgid "Select none"
+msgstr "Ne rien sélectionner"
+
+#: includes/admin/class-evf-admin-assets.php:113
+#: includes/class-evf-frontend-scripts.php:297
+msgctxt "enhanced select"
+msgid "No matches found"
+msgstr "Aucun résultat"
+
+#: includes/admin/class-evf-admin-assets.php:114
+msgctxt "enhanced select"
+msgid "Loading failed"
+msgstr "Échec du chargement"
+
+#: includes/admin/class-evf-admin-assets.php:115
+msgctxt "enhanced select"
+msgid "Please enter 1 or more characters"
+msgstr "Veuillez saisir 1 caractère ou plus"
+
+#: includes/admin/class-evf-admin-assets.php:116
+msgctxt "enhanced select"
+msgid "Please enter %qty% or more characters"
+msgstr "Veuillez saisir %qty% caractères ou plus"
+
+#: includes/admin/class-evf-admin-assets.php:117
+msgctxt "enhanced select"
+msgid "Please delete 1 character"
+msgstr "Veuillez supprimer 1 caractère"
+
+#: includes/admin/class-evf-admin-assets.php:118
+msgctxt "enhanced select"
+msgid "Please delete %qty% characters"
+msgstr "Veuillez supprimer %qty% caractères"
+
+#: includes/admin/class-evf-admin-assets.php:119
+msgctxt "enhanced select"
+msgid "You can only select 1 item"
+msgstr "Vous ne pouvez sélectionner qu’1 article"
+
+#: includes/admin/class-evf-admin-assets.php:120
+msgctxt "enhanced select"
+msgid "You can only select %qty% items"
+msgstr "Vous ne pouvez sélectionner que %qty% éléments"
+
+#: includes/admin/class-evf-admin-assets.php:121
+msgctxt "enhanced select"
+msgid "Loading more results&hellip;"
+msgstr "Charger plus de résultats…"
+
+#: includes/admin/class-evf-admin-assets.php:122
+msgctxt "enhanced select"
+msgid "Searching&hellip;"
+msgstr "Recherche…"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:567
+msgid "Export CSV"
+msgstr "Exporter en CSV"
+
+#: includes/admin/settings/class-evf-settings-integrations.php:25
+msgid "Integration"
+msgstr "Intégration"
+
+#: includes/admin/settings/class-evf-settings-integrations.php:59
+msgid "Integrations"
+msgstr "Intégrations"
+
+#: includes/class-evf-ajax.php:317
+msgid "Meta Key missing"
+msgstr "Clé meta manquante"
+
+#: includes/class-evf-ajax.php:618 includes/class-evf-ajax.php:661
+msgid "Missing data"
+msgstr "Données manquantes"
+
+#: includes/class-evf-ajax.php:677
+msgid "Connection missing"
+msgstr "Connexion manquante"
+
+#: includes/class-evf-smart-tags.php:44
+#: includes/export/class-evf-entry-csv-exporter.php:96
+msgid "User IP Address"
+msgstr "Adresse IP de l’utilisateur"
+
+#: includes/export/class-evf-entry-csv-exporter.php:77
+msgid "ID"
+msgstr "ID"
+
+#: includes/export/class-evf-entry-csv-exporter.php:95
+msgid "User Device"
+msgstr "Appareil utilisateur"
+
+#. translators: 1: entry date 2: entry time
+#: includes/export/class-evf-entry-csv-exporter.php:360
+#: includes/export/class-evf-entry-csv-exporter.php:377
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: includes/fields/class-evf-field-image-upload.php:20
+msgid "Image Upload"
+msgstr "Téléverser image"
+
+#: includes/fields/class-evf-field-select.php:37
+msgid "Option 3"
+msgstr "Option 3"
+
+#. translators: %s: Refresh URI
+#: includes/admin/views/html-admin-page-addons.php:49
+msgid "Make your forms even more robust with our premium addons. Missing any addons? Click the %1$sRefresh Add-ons%2$s button above."
+msgstr "Rendez vos formulaires encore plus robustes avec nos extensions premium. Besoin de modules ? Cliquez sur le bouton %1$sActualiser les modules%2$s ci-dessous."
+
+#. translators: %s: empty meta data
+#: includes/class-evf-ajax.php:319
+msgid "Please add Meta key for fields: %s"
+msgstr "Veuillez ajouter une clé Meta pour les champs : %s"
+
+#: includes/export/class-evf-entry-csv-exporter.php:91
+msgid "Date Created GMT"
+msgstr "Date de création GMT"
+
+#: includes/abstracts/class-evf-form-fields.php:591
+msgid "City"
+msgstr "Ville"
+
+#: includes/abstracts/class-evf-form-fields.php:618
+#: includes/fields/class-evf-field-country.php:20
+msgid "Country"
+msgstr "Pays"
+
+#: includes/abstracts/class-evf-form-fields.php:953
+msgid "Enter code for the form field."
+msgstr "Saisir du code pour le champ de formulaire."
+
+#: includes/abstracts/class-evf-form-fields.php:959
+msgid "Code"
+msgstr "Code"
+
+#: includes/admin/builder/class-evf-builder-fields.php:61
+msgid "Add Fields"
+msgstr "Ajouter des champs"
+
+#: includes/admin/builder/class-evf-builder-fields.php:62
+msgid "Field Options"
+msgstr "Options du champ"
+
+#: includes/admin/class-evf-admin-assets.php:147
+msgid "(copy)"
+msgstr "(Copie)"
+
+#: includes/admin/class-evf-admin-assets.php:197
+msgid "is a PRO Feature"
+msgstr "est une fonctionnalité PRO"
+
+#: includes/admin/class-evf-admin-assets.php:199
+msgid "Upgrade to PRO"
+msgstr "Passez à la version PRO"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:106
+#: includes/export/class-evf-entry-csv-exporter.php:90
+msgid "Date Created"
+msgstr "Date de création"
+
+#. translators: %d: number of entries
+#: includes/admin/class-evf-admin-entries-table-list.php:504
+msgid "%d entry moved to the Trash."
+msgid_plural "%d entries moved to the Trash."
+msgstr[0] "%d entrée déplacé à la poubelle."
+msgstr[1] "%d entrées déplacées à la poubelle."
+
+#. translators: %d: number of entries
+#: includes/admin/class-evf-admin-entries-table-list.php:519
+msgid "%d entry restored from the Trash."
+msgid_plural "%d entries restored from the Trash."
+msgstr[0] "%d entrée restaurée à partir de la poubelle."
+msgstr[1] "%d entrées restaurées à partir de la poubelle."
+
+#. translators: %d: number of entries
+#: includes/admin/class-evf-admin-entries-table-list.php:534
+#: includes/admin/class-evf-admin-entries.php:251
+msgid "%d entry permanently deleted."
+msgid_plural "%d entries permanently deleted."
+msgstr[0] "%d entrée définitivement supprimée."
+msgstr[1] "%d entrées définitivement supprimées."
+
+#. translators: %d: number of forms
+#: includes/admin/class-evf-admin-forms-table-list.php:469
+msgid "%d form moved to the Trash."
+msgid_plural "%d forms moved to the Trash."
+msgstr[0] "Le formulaire %d a été placé dans la corbeille."
+msgstr[1] "Les formulaires %d ont été placés dans la corbeille."
+
+#. translators: %d: number of forms
+#: includes/admin/class-evf-admin-forms-table-list.php:484
+msgid "%d form restored from the Trash."
+msgid_plural "%d forms restored from the Trash."
+msgstr[0] "Le formulaire %d a été restauré depuis la corbeille."
+msgstr[1] "Les formulaires %d ont été restaurés depuis la corbeille."
+
+#. translators: %d: number of forms
+#: includes/admin/class-evf-admin-forms-table-list.php:499
+#: includes/admin/class-evf-admin-forms.php:215
+msgid "%d form permanently deleted."
+msgid_plural "%d forms permanently deleted."
+msgstr[0] "Le formulaire %d a été définitivement supprimé."
+msgstr[1] "Les formulaires %d ont été définitivement supprimés."
+
+#: includes/admin/class-evf-admin-menus.php:73
+msgid "Everest Forms Setup"
+msgstr "Configuration des formulaires Everest"
+
+#: includes/admin/class-evf-admin-menus.php:132
+msgid "Everest Forms Entries"
+msgstr "Entrées de formulaires Everest"
+
+#: includes/admin/class-evf-admin-settings.php:705
+#: includes/evf-formatting-functions.php:576
+msgid "Day(s)"
+msgstr "Jour(s)"
+
+#: includes/admin/class-evf-admin-settings.php:706
+#: includes/evf-formatting-functions.php:577
+msgid "Week(s)"
+msgstr "Semaine(s)"
+
+#: includes/admin/class-evf-admin-settings.php:707
+#: includes/evf-formatting-functions.php:578
+msgid "Month(s)"
+msgstr "Mois"
+
+#: includes/admin/class-evf-admin-settings.php:708
+#: includes/evf-formatting-functions.php:579
+msgid "Year(s)"
+msgstr "Année(s)"
+
+#: includes/admin/class-evf-admin.php:82
+msgid "Sorry, you are not allowed to activate this plugin."
+msgstr "Désolé, vous n’êtes pas autorisé à activer cette extension."
+
+#: includes/admin/class-evf-admin.php:90
+msgid "Sorry, you are not allowed to deactivate plugins for this site."
+msgstr "Désolé, vous n’êtes pas autorisé à désactiver les extensions pour ce site."
+
+#: includes/admin/settings/class-evf-settings-email.php:40
+msgid "Template Settings"
+msgstr "Réglages du modèle"
+
+#: includes/admin/views/html-admin-page-addons.php:38
+#: includes/admin/views/html-admin-page-addons.php:41
+msgid "Search Add-ons"
+msgstr "Rechercher des modules"
+
+#: includes/admin/views/html-admin-page-addons.php:56
+msgid "Add-ons list"
+msgstr "Liste des modules"
+
+#: includes/admin/views/html-admin-page-addons.php:79
+msgid "Activated"
+msgstr "Activé"
+
+#: includes/admin/views/html-admin-page-addons.php:81
+msgid "Inactive"
+msgstr "Inactif"
+
+#: includes/admin/views/html-admin-page-addons.php:83
+msgid "Not Installed"
+msgstr "Non installée"
+
+#: includes/admin/views/html-admin-page-addons.php:104
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: includes/admin/views/html-admin-page-addons.php:122
+#: assets/js/admin/extensions.js:139
+msgid "Activate"
+msgstr "Activer"
+
+#: includes/admin/views/html-admin-page-addons.php:128
+msgid "Install Addon"
+msgstr "Installer une extension"
+
+#: includes/admin/views/html-admin-page-builder.php:30
+msgid "Loading&hellip;"
+msgstr "Chargement…"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:229
+#: includes/admin/views/html-admin-page-builder.php:51
+msgid "Copy Shortcode!"
+msgstr "Copier le code court !"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:229
+#: includes/admin/views/html-admin-page-builder.php:51
+msgid "Copied!"
+msgstr "Copié !"
+
+#: includes/admin/views/html-admin-page-builder.php:52
+msgid "Copy shortcode"
+msgstr "Copier le code court"
+
+#: includes/class-evf-ajax.php:494
+msgid "No plugin specified."
+msgstr "Aucun module spécifié."
+
+#: includes/class-evf-ajax.php:507
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Désolé, vous n’êtes pas autorisé à installer des extensions sur ce site."
+
+#: includes/class-evf-ajax.php:571
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Impossible de se connecter au système de fichiers. Veuillez confirmer vos informations d’identification."
+
+#: includes/class-evf-fields.php:52
+msgid "Cloning is forbidden."
+msgstr "Le clonage est interdit."
+
+#: includes/class-evf-fields.php:61
+msgid "Unserializing instances of this class is forbidden."
+msgstr "La désérialisation des instances de classe est interdite."
+
+#: includes/evf-core-functions.php:1578
+msgid "Afghanistan"
+msgstr "Afghanistan"
+
+#: includes/evf-core-functions.php:1579
+msgid "Åland Islands"
+msgstr "Îles Aland"
+
+#: includes/evf-core-functions.php:1580
+msgid "Albania"
+msgstr "Albanie"
+
+#: includes/evf-core-functions.php:1581
+msgid "Algeria"
+msgstr "Algérie"
+
+#: includes/evf-core-functions.php:1582
+msgid "American Samoa"
+msgstr "American Samoa"
+
+#: includes/evf-core-functions.php:1583
+msgid "Andorra"
+msgstr "Andorre"
+
+#: includes/evf-core-functions.php:1584
+msgid "Angola"
+msgstr "Angola"
+
+#: includes/evf-core-functions.php:1585
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: includes/evf-core-functions.php:1586
+msgid "Antarctica"
+msgstr "Antarctique"
+
+#: includes/evf-core-functions.php:1587
+msgid "Antigua and Barbuda"
+msgstr "Antigua et Barbade"
+
+#: includes/evf-core-functions.php:1588
+msgid "Argentina"
+msgstr "Argentine"
+
+#: includes/evf-core-functions.php:1589
+msgid "Armenia"
+msgstr "Arménie"
+
+#: includes/evf-core-functions.php:1590
+msgid "Aruba"
+msgstr "Aruba"
+
+#: includes/evf-core-functions.php:1591
+msgid "Australia"
+msgstr "Australie"
+
+#: includes/evf-core-functions.php:1592
+msgid "Austria"
+msgstr "Autriche"
+
+#: includes/evf-core-functions.php:1593
+msgid "Azerbaijan"
+msgstr "Azerbaijan"
+
+#: includes/evf-core-functions.php:1594
+msgid "Bahamas"
+msgstr "Bahamas"
+
+#: includes/evf-core-functions.php:1595
+msgid "Bahrain"
+msgstr "Bahrain"
+
+#: includes/evf-core-functions.php:1596
+msgid "Bangladesh"
+msgstr "Bangladesh"
+
+#: includes/evf-core-functions.php:1597
+msgid "Barbados"
+msgstr "Barbades"
+
+#: includes/evf-core-functions.php:1598
+msgid "Belarus"
+msgstr "Biélorussie"
+
+#: includes/evf-core-functions.php:1599
+msgid "Belgium"
+msgstr "Belgique"
+
+#: includes/evf-core-functions.php:1601
+msgid "Belize"
+msgstr "Belize"
+
+#: includes/evf-core-functions.php:1602
+msgid "Benin"
+msgstr "Benin"
+
+#: includes/evf-core-functions.php:1603
+msgid "Bermuda"
+msgstr "Bermudes"
+
+#: includes/evf-core-functions.php:1604
+msgid "Bhutan"
+msgstr "Bhutan"
+
+#: includes/evf-core-functions.php:1607
+msgid "Bosnia and Herzegovina"
+msgstr "Bosnie-Herzégovine"
+
+#: includes/evf-core-functions.php:1608
+msgid "Botswana"
+msgstr "Botswana"
+
+#: includes/evf-core-functions.php:1609
+msgid "Bouvet Island"
+msgstr "Île Bouvet"
+
+#: includes/evf-core-functions.php:1610
+msgid "Brazil"
+msgstr "Brésil"
+
+#: includes/evf-core-functions.php:1611
+msgid "British Indian Ocean Territory"
+msgstr "Territoire britannique de l’océan Indien"
+
+#: includes/evf-core-functions.php:1613
+msgid "Bulgaria"
+msgstr "Bulgarie"
+
+#: includes/evf-core-functions.php:1614
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: includes/evf-core-functions.php:1615
+msgid "Burundi"
+msgstr "Burundi"
+
+#: includes/evf-core-functions.php:1619
+msgid "Cape Verde"
+msgstr "Cap-Vert"
+
+#: includes/evf-core-functions.php:1616
+msgid "Cambodia"
+msgstr "Cambodge"
+
+#: includes/evf-core-functions.php:1617
+msgid "Cameroon"
+msgstr "Cameroun"
+
+#: includes/evf-core-functions.php:1618
+msgid "Canada"
+msgstr "Canada"
+
+#: includes/evf-core-functions.php:1620
+msgid "Cayman Islands"
+msgstr "Îles Caïmans"
+
+#: includes/evf-core-functions.php:1621
+msgid "Central African Republic"
+msgstr "République Centrafricaine"
+
+#: includes/evf-core-functions.php:1622
+msgid "Chad"
+msgstr "Tchad"
+
+#: includes/evf-core-functions.php:1623
+msgid "Chile"
+msgstr "Chili"
+
+#: includes/evf-core-functions.php:1624
+msgid "China"
+msgstr "Chine"
+
+#: includes/evf-core-functions.php:1625
+msgid "Christmas Island"
+msgstr "Île de Noël"
+
+#: includes/evf-core-functions.php:1626
+msgid "Cocos (Keeling) Islands"
+msgstr "Îles Cocos"
+
+#: includes/evf-core-functions.php:1627
+msgid "Colombia"
+msgstr "Colombie"
+
+#: includes/evf-core-functions.php:1628
+msgid "Comoros"
+msgstr "Comores"
+
+#: includes/evf-core-functions.php:1631
+msgid "Cook Islands"
+msgstr "Îles Cook"
+
+#: includes/evf-core-functions.php:1632
+msgid "Costa Rica"
+msgstr "Costa Rica"
+
+#: includes/evf-core-functions.php:1633
+msgid "Croatia"
+msgstr "Croatie"
+
+#: includes/evf-core-functions.php:1634
+msgid "Cuba"
+msgstr "Cuba"
+
+#: includes/evf-core-functions.php:1636
+msgid "Cyprus"
+msgstr "Chypre"
+
+#: includes/evf-core-functions.php:1637
+msgid "Czech Republic"
+msgstr "République Tchèque"
+
+#: includes/evf-core-functions.php:1638
+msgid "Denmark"
+msgstr "Danemark"
+
+#: includes/evf-core-functions.php:1639
+msgid "Djibouti"
+msgstr "Djibouti"
+
+#: includes/evf-core-functions.php:1640
+msgid "Dominica"
+msgstr "Dominique"
+
+#: includes/evf-core-functions.php:1641
+msgid "Dominican Republic"
+msgstr "République Dominicaine"
+
+#: includes/evf-core-functions.php:1642
+msgid "Ecuador"
+msgstr "Équateur"
+
+#: includes/evf-core-functions.php:1643
+msgid "Egypt"
+msgstr "Égypte"
+
+#: includes/evf-core-functions.php:1644
+msgid "El Salvador"
+msgstr "Salvador"
+
+#: includes/evf-core-functions.php:1645
+msgid "Equatorial Guinea"
+msgstr "Guinée équatoriale"
+
+#: includes/evf-core-functions.php:1646
+msgid "Eritrea"
+msgstr "Erythrée"
+
+#: includes/evf-core-functions.php:1647
+msgid "Estonia"
+msgstr "Estonie"
+
+#: includes/evf-core-functions.php:1648
+msgid "Ethiopia"
+msgstr "Éthiopie"
+
+#: includes/evf-core-functions.php:1650
+msgid "Faroe Islands"
+msgstr "Îles Féroé"
+
+#: includes/evf-core-functions.php:1651
+msgid "Fiji"
+msgstr "Fidji"
+
+#: includes/evf-core-functions.php:1652
+msgid "Finland"
+msgstr "Finlande"
+
+#: includes/evf-core-functions.php:1653
+msgid "France"
+msgstr "France"
+
+#: includes/evf-core-functions.php:1654
+msgid "French Guiana"
+msgstr "Guyane Française"
+
+#: includes/evf-core-functions.php:1655
+msgid "French Polynesia"
+msgstr "Polynésie Française"
+
+#: includes/evf-core-functions.php:1656
+msgid "French Southern Territories"
+msgstr "Terres Australes Françaises"
+
+#: includes/evf-core-functions.php:1657
+msgid "Gabon"
+msgstr "Gabon"
+
+#: includes/evf-core-functions.php:1658
+msgid "Gambia"
+msgstr "Gambie"
+
+#: includes/evf-core-functions.php:1660
+msgid "Germany"
+msgstr "Allemagne"
+
+#: includes/evf-core-functions.php:1661
+msgid "Ghana"
+msgstr "Ghana"
+
+#: includes/evf-core-functions.php:1662
+msgid "Gibraltar"
+msgstr "Gibraltar"
+
+#: includes/evf-core-functions.php:1663
+msgid "Greece"
+msgstr "Grèce"
+
+#: includes/evf-core-functions.php:1664
+msgid "Greenland"
+msgstr "Groënland"
+
+#: includes/evf-core-functions.php:1665
+msgid "Grenada"
+msgstr "Grenade"
+
+#: includes/evf-core-functions.php:1666
+msgid "Guadeloupe"
+msgstr "Guadeloupe"
+
+#: includes/evf-core-functions.php:1667
+msgid "Guam"
+msgstr "Guam"
+
+#: includes/evf-core-functions.php:1668
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: includes/evf-core-functions.php:1669
+msgid "Guernsey"
+msgstr "Guernesey"
+
+#: includes/evf-core-functions.php:1670
+msgid "Guinea"
+msgstr "Guinée"
+
+#: includes/evf-core-functions.php:1671
+msgid "Guinea-Bissau"
+msgstr "Guinée-Bissau"
+
+#: includes/evf-core-functions.php:1672
+msgid "Guyana"
+msgstr "Guyane"
+
+#: includes/evf-core-functions.php:1673
+msgid "Haiti"
+msgstr "Haïti"
+
+#: includes/evf-core-functions.php:1674
+msgid "Heard Island and McDonald Islands"
+msgstr "Îles Heard-et-MacDonald"
+
+#: includes/evf-core-functions.php:1675
+msgid "Honduras"
+msgstr "Honduras"
+
+#: includes/evf-core-functions.php:1676
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: includes/evf-core-functions.php:1677
+msgid "Hungary"
+msgstr "Hongrie"
+
+#: includes/evf-core-functions.php:1678
+msgid "Iceland"
+msgstr "Islande"
+
+#: includes/evf-core-functions.php:1679
+msgid "India"
+msgstr "Inde"
+
+#: includes/evf-core-functions.php:1680
+msgid "Indonesia"
+msgstr "Indonésie"
+
+#: includes/evf-core-functions.php:1682
+msgid "Iraq"
+msgstr "Iraq"
+
+#: includes/evf-core-functions.php:1684
+msgid "Isle of Man"
+msgstr "Île de Man"
+
+#: includes/evf-core-functions.php:1685
+msgid "Israel"
+msgstr "Israël"
+
+#: includes/evf-core-functions.php:1686
+msgid "Italy"
+msgstr "Italie"
+
+#: includes/evf-core-functions.php:1688
+msgid "Jamaica"
+msgstr "Jamaïque"
+
+#: includes/evf-core-functions.php:1689
+msgid "Japan"
+msgstr "Japon"
+
+#: includes/evf-core-functions.php:1690
+msgid "Jersey"
+msgstr "Jersey"
+
+#: includes/evf-core-functions.php:1691
+msgid "Jordan"
+msgstr "Jordanie"
+
+#: includes/evf-core-functions.php:1692
+msgid "Kazakhstan"
+msgstr "Kazakhstan"
+
+#: includes/evf-core-functions.php:1693
+msgid "Kenya"
+msgstr "Kenya"
+
+#: includes/evf-core-functions.php:1694
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: includes/evf-core-functions.php:1695
+msgid "Kuwait"
+msgstr "Koweït"
+
+#: includes/evf-core-functions.php:1697
+msgid "Kyrgyzstan"
+msgstr "Kyrgyzstan"
+
+#: includes/evf-core-functions.php:1699
+msgid "Latvia"
+msgstr "Lettonie"
+
+#: includes/evf-core-functions.php:1700
+msgid "Lebanon"
+msgstr "Liban"
+
+#: includes/evf-core-functions.php:1701
+msgid "Lesotho"
+msgstr "Lesotho"
+
+#: includes/evf-core-functions.php:1702
+msgid "Liberia"
+msgstr "Liberia"
+
+#: includes/evf-core-functions.php:1703
+msgid "Libya"
+msgstr "Libye"
+
+#: includes/evf-core-functions.php:1704
+msgid "Liechtenstein"
+msgstr "Liechtenstein"
+
+#: includes/evf-core-functions.php:1705
+msgid "Lithuania"
+msgstr "Lituanie"
+
+#: includes/evf-core-functions.php:1706
+msgid "Luxembourg"
+msgstr "Luxembourg"
+
+#: includes/evf-core-functions.php:1707
+msgid "Macao"
+msgstr "Macao"
+
+#: includes/evf-core-functions.php:1709
+msgid "Madagascar"
+msgstr "Madagascar"
+
+#: includes/evf-core-functions.php:1710
+msgid "Malawi"
+msgstr "Malawi"
+
+#: includes/evf-core-functions.php:1711
+msgid "Malaysia"
+msgstr "Malaisie"
+
+#: includes/evf-core-functions.php:1712
+msgid "Maldives"
+msgstr "Maldives"
+
+#: includes/evf-core-functions.php:1713
+msgid "Mali"
+msgstr "Mali"
+
+#: includes/evf-core-functions.php:1714
+msgid "Malta"
+msgstr "Malte"
+
+#: includes/evf-core-functions.php:1715
+msgid "Marshall Islands"
+msgstr "Îles Marshall"
+
+#: includes/evf-core-functions.php:1716
+msgid "Martinique"
+msgstr "Martinique"
+
+#: includes/evf-core-functions.php:1717
+msgid "Mauritania"
+msgstr "Mauritanie"
+
+#: includes/evf-core-functions.php:1718
+msgid "Mauritius"
+msgstr "Maurice"
+
+#: includes/evf-core-functions.php:1719
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: includes/evf-core-functions.php:1720
+msgid "Mexico"
+msgstr "Mexique"
+
+#: includes/evf-core-functions.php:1723
+msgid "Monaco"
+msgstr "Monaco"
+
+#: includes/evf-core-functions.php:1724
+msgid "Mongolia"
+msgstr "Mongolie"
+
+#: includes/evf-core-functions.php:1725
+msgid "Montenegro"
+msgstr "Montenegro"
+
+#: includes/evf-core-functions.php:1726
+msgid "Montserrat"
+msgstr "Montserrat"
+
+#: includes/evf-core-functions.php:1727
+msgid "Morocco"
+msgstr "Maroc"
+
+#: includes/evf-core-functions.php:1728
+msgid "Mozambique"
+msgstr "Mozambique"
+
+#: includes/evf-core-functions.php:1729
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: includes/evf-core-functions.php:1730
+msgid "Namibia"
+msgstr "Namibie"
+
+#: includes/evf-core-functions.php:1731
+msgid "Nauru"
+msgstr "Nauru"
+
+#: includes/evf-core-functions.php:1732
+msgid "Nepal"
+msgstr "Népal"
+
+#: includes/evf-core-functions.php:1733
+msgid "Netherlands"
+msgstr "Pays Bas"
+
+#: includes/evf-core-functions.php:1734
+msgid "New Caledonia"
+msgstr "Nouvelle-Calédonie"
+
+#: includes/evf-core-functions.php:1735
+msgid "New Zealand"
+msgstr "Nouvelle-Zélande"
+
+#: includes/evf-core-functions.php:1736
+msgid "Nicaragua"
+msgstr "Nicaragua"
+
+#: includes/evf-core-functions.php:1737
+msgid "Niger"
+msgstr "Niger"
+
+#: includes/evf-core-functions.php:1738
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#: includes/evf-core-functions.php:1739
+msgid "Niue"
+msgstr "Niue"
+
+#: includes/evf-core-functions.php:1740
+msgid "Norfolk Island"
+msgstr "Île Norfolk"
+
+#: includes/evf-core-functions.php:1741
+msgid "Northern Mariana Islands"
+msgstr "Northern Mariana Islands"
+
+#: includes/evf-core-functions.php:1743
+msgid "Norway"
+msgstr "Norvège"
+
+#: includes/evf-core-functions.php:1744
+msgid "Oman"
+msgstr "Oman"
+
+#: includes/evf-core-functions.php:1745
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: includes/evf-core-functions.php:1747
+msgid "Panama"
+msgstr "Panama"
+
+#: includes/evf-core-functions.php:1748
+msgid "Papua New Guinea"
+msgstr "Papouasie-Nouvelle-Guinée"
+
+#: includes/evf-core-functions.php:1749
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: includes/evf-core-functions.php:1750
+msgid "Peru"
+msgstr "Pérou"
+
+#: includes/evf-core-functions.php:1751
+msgid "Philippines"
+msgstr "Philippines"
+
+#: includes/evf-core-functions.php:1752
+msgid "Pitcairn"
+msgstr "Pitcairn"
+
+#: includes/evf-core-functions.php:1753
+msgid "Poland"
+msgstr "Pologne"
+
+#: includes/evf-core-functions.php:1754
+msgid "Portugal"
+msgstr "Portugal"
+
+#: includes/evf-core-functions.php:1755
+msgid "Puerto Rico"
+msgstr "Puerto Rico"
+
+#: includes/evf-core-functions.php:1756
+msgid "Qatar"
+msgstr "Qatar"
+
+#: includes/evf-core-functions.php:1757
+msgid "Reunion"
+msgstr "La Réunion"
+
+#: includes/evf-core-functions.php:1758
+msgid "Romania"
+msgstr "Roumanie"
+
+#: includes/evf-core-functions.php:1760
+msgid "Rwanda"
+msgstr "Rwanda"
+
+#: includes/evf-core-functions.php:1763
+msgid "Saint Kitts and Nevis"
+msgstr "Saint-Kitts-et-Nevis"
+
+#: includes/evf-core-functions.php:1764
+msgid "Saint Lucia"
+msgstr "Sainte-Lucie"
+
+#: includes/evf-core-functions.php:1765
+msgid "Saint Martin (French part)"
+msgstr "Saint-Martin (partie française)"
+
+#: includes/evf-core-functions.php:1767
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre et Miquelon"
+
+#: includes/evf-core-functions.php:1768
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint-Vincent-et-les-Grenadines"
+
+#: includes/evf-core-functions.php:1824
+msgid "Samoa"
+msgstr "Samoa"
+
+#: includes/evf-core-functions.php:1769
+msgid "San Marino"
+msgstr "San Marino"
+
+#: includes/evf-core-functions.php:1771
+msgid "Saudi Arabia"
+msgstr "Arabie Saoudite"
+
+#: includes/evf-core-functions.php:1772
+msgid "Senegal"
+msgstr "Sénégal"
+
+#: includes/evf-core-functions.php:1773
+msgid "Serbia"
+msgstr "Serbie"
+
+#: includes/evf-core-functions.php:1774
+msgid "Seychelles"
+msgstr "Seychelles"
+
+#: includes/evf-core-functions.php:1775
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: includes/evf-core-functions.php:1776
+msgid "Singapore"
+msgstr "Singapour"
+
+#: includes/evf-core-functions.php:1766
+msgid "Saint Martin (Dutch part)"
+msgstr "Saint-Martin (partie néerlandaise)"
+
+#: includes/evf-core-functions.php:1777
+msgid "Slovakia"
+msgstr "Slovaquie"
+
+#: includes/evf-core-functions.php:1778
+msgid "Slovenia"
+msgstr "Slovénie"
+
+#: includes/evf-core-functions.php:1779
+msgid "Solomon Islands"
+msgstr "Îles Salomon"
+
+#: includes/evf-core-functions.php:1780
+msgid "Somalia"
+msgstr "Somalie"
+
+#: includes/evf-core-functions.php:1781
+msgid "South Africa"
+msgstr "Afrique du Sud"
+
+#: includes/evf-core-functions.php:1784
+msgid "South Sudan"
+msgstr "Soudan du Sud"
+
+#: includes/evf-core-functions.php:1785
+msgid "Spain"
+msgstr "Espagne"
+
+#: includes/evf-core-functions.php:1786
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: includes/evf-core-functions.php:1787
+msgid "Sudan"
+msgstr "Soudan"
+
+#: includes/evf-core-functions.php:1788
+msgid "Suriname"
+msgstr "Suriname"
+
+#: includes/evf-core-functions.php:1789
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard et Jan Mayen"
+
+#: includes/evf-core-functions.php:1790
+msgid "Swaziland"
+msgstr "Swaziland"
+
+#: includes/evf-core-functions.php:1791
+msgid "Sweden"
+msgstr "Suède"
+
+#: includes/evf-core-functions.php:1792
+msgid "Switzerland"
+msgstr "Suisse"
+
+#: includes/evf-core-functions.php:1795
+msgid "Tajikistan"
+msgstr "Tajikistan"
+
+#: includes/evf-core-functions.php:1797
+msgid "Thailand"
+msgstr "Thailande"
+
+#: includes/evf-core-functions.php:1798
+msgid "Timor-Leste"
+msgstr "Timor-Leste"
+
+#: includes/evf-core-functions.php:1799
+msgid "Togo"
+msgstr "Togo"
+
+#: includes/evf-core-functions.php:1800
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: includes/evf-core-functions.php:1801
+msgid "Tonga"
+msgstr "Tonga"
+
+#: includes/evf-core-functions.php:1802
+msgid "Trinidad and Tobago"
+msgstr "Trinité-et-Tobago"
+
+#: includes/evf-core-functions.php:1803
+msgid "Tunisia"
+msgstr "Tunisie"
+
+#: includes/evf-core-functions.php:1804
+msgid "Turkey"
+msgstr "Turquie"
+
+#: includes/evf-core-functions.php:1805
+msgid "Turkmenistan"
+msgstr "Turkménistan"
+
+#: includes/evf-core-functions.php:1806
+msgid "Turks and Caicos Islands"
+msgstr "Îles Turks-et-Caïcos"
+
+#: includes/evf-core-functions.php:1807
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: includes/evf-core-functions.php:1808
+msgid "Uganda"
+msgstr "Uganda"
+
+#: includes/evf-core-functions.php:1809
+msgid "Ukraine"
+msgstr "Ukraine"
+
+#: includes/evf-core-functions.php:1810
+msgid "United Arab Emirates"
+msgstr "Émirats Arabes Unis"
+
+#: includes/evf-core-functions.php:1813
+msgid "United States (US) Minor Outlying Islands"
+msgstr "Îles mineures éloignées des États-Unis"
+
+#: includes/evf-core-functions.php:1814
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: includes/evf-core-functions.php:1815
+msgid "Uzbekistan"
+msgstr "Ouzbékistan"
+
+#: includes/evf-core-functions.php:1816
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: includes/evf-core-functions.php:1820
+msgid "Virgin Islands (British)"
+msgstr "Îles Vierges britanniques"
+
+#: includes/evf-core-functions.php:1821
+msgid "Virgin Islands (US)"
+msgstr "Îles Vierges américaines"
+
+#: includes/evf-core-functions.php:1822
+msgid "Wallis and Futuna"
+msgstr "Wallis et Futuna"
+
+#: includes/evf-core-functions.php:1823
+msgid "Western Sahara"
+msgstr "Sahara occidental"
+
+#: includes/evf-core-functions.php:1825
+msgid "Yemen"
+msgstr "Yémen"
+
+#: includes/evf-core-functions.php:1826
+msgid "Zambia"
+msgstr "Zambie"
+
+#: includes/evf-core-functions.php:1827
+msgid "Zimbabwe"
+msgstr "Zimbabwe"
+
+#: includes/evf-core-functions.php:1908
+msgid "Payment Fields"
+msgstr "Champs de paiement"
+
+#: includes/abstracts/class-evf-form-fields.php:930
+#: includes/fields/class-evf-field-address.php:20
+msgid "Address"
+msgstr "Adresse"
+
+#: includes/fields/class-evf-field-file-upload.php:20
+msgid "File Upload"
+msgstr "Téléverser le fichier"
+
+#: includes/fields/class-evf-field-hidden.php:20
+msgid "Hidden Field"
+msgstr "Champ masqué"
+
+#: includes/fields/class-evf-field-html.php:20
+msgid "Custom HTML"
+msgstr "HTML personnalisé"
+
+#: includes/fields/class-evf-field-password.php:20
+msgid "Password"
+msgstr "Mot de passe"
+
+#: includes/fields/class-evf-field-payment-total.php:20
+msgid "Total"
+msgstr "Total"
+
+#: includes/fields/class-evf-field-payment-radio.php:20
+#: includes/fields/class-evf-field-radio.php:20
+msgid "Multiple Choice"
+msgstr "Choix multiples"
+
+#: includes/fields/class-evf-field-payment-single.php:20
+msgid "Single Item"
+msgstr "Élément seul"
+
+#: includes/fields/class-evf-field-phone.php:20
+msgid "Phone"
+msgstr "Téléphone"
+
+#: includes/fields/class-evf-field-text.php:20
+msgid "Single Line Text"
+msgstr "Texte sur une seule ligne"
+
+#: includes/fields/class-evf-field-text.php:198
+msgid "Enter your custom input mask."
+msgstr "Saisir votre entrée de saisie personnalisée."
+
+#: includes/fields/class-evf-field-text.php:199
+msgid "See Examples & Docs"
+msgstr "Voir des exemples et documentations"
+
+#: includes/fields/class-evf-field-title.php:20
+msgid "Section Title"
+msgstr "Titre de la section"
+
+#. translators: %s - link to a site.
+#: templates/emails/footer-default.php:45
+msgid "Sent from %s"
+msgstr "Envoyé de %s"
+
+#: includes/admin/class-evf-admin-assets.php:198
+msgid "We're sorry, the %name% is not available on your plan.<br>Please upgrade to the PRO plan to unlock all these awesome features."
+msgstr "Nous sommes désolés, %name% n’est pas disponible sur votre abonnement.<br>Veuillez mettre à niveau vers le plan PRO pour débloquer toutes ces superbes fonctionnalités."
+
+#: includes/admin/class-evf-admin-assets.php:270
+#: includes/admin/views/html-admin-page-addons.php:133
+msgid "Upgrade Plan"
+msgstr "Modifier l’abonnement"
+
+#: includes/admin/class-evf-admin-menus.php:71
+msgid "Everest Forms Builder"
+msgstr "Constructeur Everest Forms"
+
+#: includes/admin/class-evf-admin-menus.php:208
+#: includes/admin/views/html-admin-page-addons.php:15
+msgid "Everest Forms Add-ons"
+msgstr "Modules pour Everest Forms"
+
+#: includes/admin/class-evf-admin-menus.php:208
+msgid "Add-ons"
+msgstr "Modules"
+
+#: includes/admin/class-evf-admin.php:70 includes/admin/class-evf-admin.php:115
+msgid "Could not verify nonce"
+msgstr "Impossible de vérifier le nonce"
+
+#: includes/admin/settings/class-evf-settings-email.php:46
+msgid "Template"
+msgstr "Modèle"
+
+#: includes/admin/views/html-admin-page-addons.php:18
+msgid "Refresh Add-ons"
+msgstr "Actualiser les modules"
+
+#: includes/admin/views/html-admin-page-addons.php:22
+msgid "Filter add-ons list"
+msgstr "Filtrer la liste des modules"
+
+#: includes/admin/views/html-admin-page-addons.php:39
+msgid "Search Add-ons..."
+msgstr "Rechercher des modules..."
+
+#. translators: %s: Add-ons Link
+#: includes/admin/views/html-admin-page-addons.php:147
+msgid "Our catalog of Everest Forms Add-ons/Extensions can be found on WPEverest.com here: <a href=\"%s\">Everest Forms Extensions Catalog</a>"
+msgstr "Notre catalogue de modules complémentaires/extensions pour Everest Forms est disponible sur WPEverest.com ici : <a href=\"%s\">Catalogue d’extensions pour Everest Forms</a>"
+
+#: includes/fields/class-evf-field-select.php:20
+msgid "Dropdown"
+msgstr "Sélection"
+
+#: includes/fields/class-evf-field-text.php:197
+msgid "Input Mask"
+msgstr "Texte de préremplissage"
+
+#: includes/evf-core-functions.php:1846
+msgid "Colorado"
+msgstr "Colorado"
+
+#: includes/evf-core-functions.php:1845
+msgid "California"
+msgstr "Californie"
+
+#: includes/evf-core-functions.php:1844
+msgid "Arkansas"
+msgstr "Arkansas"
+
+#: includes/evf-core-functions.php:1843
+msgid "Arizona"
+msgstr "Arizona"
+
+#: includes/evf-core-functions.php:1842
+msgid "Alaska"
+msgstr "Alaska"
+
+#: includes/evf-core-functions.php:1841
+msgid "Alabama"
+msgstr "Alabama"
+
+#: includes/evf-core-functions.php:1861
+msgid "Maryland"
+msgstr "Maryland"
+
+#: includes/evf-core-functions.php:1860
+msgid "Maine"
+msgstr "Maine"
+
+#: includes/evf-core-functions.php:1859
+msgid "Louisiana"
+msgstr "Louisiane"
+
+#: includes/evf-core-functions.php:1858
+msgid "Kentucky"
+msgstr "Kentucky"
+
+#: includes/evf-core-functions.php:1857
+msgid "Kansas"
+msgstr "Kansas"
+
+#: includes/evf-core-functions.php:1856
+msgid "Iowa"
+msgstr "Iowa"
+
+#: includes/evf-core-functions.php:1855
+msgid "Indiana"
+msgstr "Indiana"
+
+#: includes/evf-core-functions.php:1854
+msgid "Illinois"
+msgstr "Illinois"
+
+#: includes/evf-core-functions.php:1853
+msgid "Idaho"
+msgstr "Idaho"
+
+#: includes/evf-core-functions.php:1852
+msgid "Hawaii"
+msgstr "Hawaï"
+
+#: includes/evf-core-functions.php:1850
+msgid "Florida"
+msgstr "Floride"
+
+#: includes/evf-core-functions.php:1849
+msgid "District of Columbia"
+msgstr "District de Columbia"
+
+#: includes/evf-core-functions.php:1848
+msgid "Delaware"
+msgstr "Delaware"
+
+#: includes/evf-core-functions.php:1847
+msgid "Connecticut"
+msgstr "Connecticut"
+
+#: includes/evf-core-functions.php:1876
+msgid "Ohio"
+msgstr "Ohio"
+
+#: includes/evf-core-functions.php:1875
+msgid "North Dakota"
+msgstr "Dakota du Nord"
+
+#: includes/evf-core-functions.php:1874
+msgid "North Carolina"
+msgstr "Caroline du Nord"
+
+#: includes/evf-core-functions.php:1873
+msgid "New York"
+msgstr "New York"
+
+#: includes/evf-core-functions.php:1872
+msgid "New Mexico"
+msgstr "Nouveau-Mexique"
+
+#: includes/evf-core-functions.php:1871
+msgid "New Jersey"
+msgstr "New Jersey"
+
+#: includes/evf-core-functions.php:1870
+msgid "New Hampshire"
+msgstr "New Hampshire"
+
+#: includes/evf-core-functions.php:1869
+msgid "Nevada"
+msgstr "Nevada"
+
+#: includes/evf-core-functions.php:1868
+msgid "Nebraska"
+msgstr "Nebraska"
+
+#: includes/evf-core-functions.php:1867
+msgid "Montana"
+msgstr "Montana"
+
+#: includes/evf-core-functions.php:1866
+msgid "Missouri"
+msgstr "Missouri"
+
+#: includes/evf-core-functions.php:1865
+msgid "Mississippi"
+msgstr "Mississippi"
+
+#: includes/evf-core-functions.php:1864
+msgid "Minnesota"
+msgstr "Minnesota"
+
+#: includes/evf-core-functions.php:1863
+msgid "Michigan"
+msgstr "Michigan"
+
+#: includes/evf-core-functions.php:1862
+msgid "Massachusetts"
+msgstr "Massachusetts"
+
+#: includes/evf-core-functions.php:1891
+msgid "Wyoming"
+msgstr "Wyoming"
+
+#: includes/evf-core-functions.php:1890
+msgid "Wisconsin"
+msgstr "Wisconsin"
+
+#: includes/evf-core-functions.php:1889
+msgid "West Virginia"
+msgstr "Virginie-Occidentale"
+
+#: includes/evf-core-functions.php:1888
+msgid "Washington"
+msgstr "Washington"
+
+#: includes/evf-core-functions.php:1887
+msgid "Virginia"
+msgstr "Virginie"
+
+#: includes/evf-core-functions.php:1886
+msgid "Vermont"
+msgstr "Vermont"
+
+#: includes/evf-core-functions.php:1885
+msgid "Utah"
+msgstr "Utah"
+
+#: includes/evf-core-functions.php:1884
+msgid "Texas"
+msgstr "Texas"
+
+#: includes/evf-core-functions.php:1883
+msgid "Tennessee"
+msgstr "Tennessee"
+
+#: includes/evf-core-functions.php:1882
+msgid "South Dakota"
+msgstr "Dakota du Sud"
+
+#: includes/evf-core-functions.php:1881
+msgid "South Carolina"
+msgstr "Caroline du Sud"
+
+#: includes/evf-core-functions.php:1880
+msgid "Rhode Island"
+msgstr "Rhode Island"
+
+#: includes/evf-core-functions.php:1879
+msgid "Pennsylvania"
+msgstr "Pennsylvanie"
+
+#: includes/evf-core-functions.php:1878
+msgid "Oregon"
+msgstr "Oregon"
+
+#: includes/evf-core-functions.php:1877
+msgid "Oklahoma"
+msgstr "Oklahoma"
+
+#: includes/admin/class-evf-admin-forms.php:225
+msgid "No form to duplicate has been supplied!"
+msgstr "Aucun formulaire à dupliquer n’a été fourni !"
+
+#. translators: %s - Everest Builder page.
+#: includes/admin/class-evf-admin-editor.php:81
+msgid "Whoops, you haven't created a form yet. Want to <a href=\"%s\">give it a go</a>?"
+msgstr "Oups, vous n’avez pas encore créé de formulaire. Voulez-vous <a href=\"%s\">le faire</a> ?"
+
+#: includes/fields/class-evf-field-url.php:20
+msgid "Website / URL"
+msgstr "Site/URL"
+
+#. translators: %1$s - deactivation reason page; %2$d - deactivation url.
+#: includes/class-evf-ajax.php:708
+msgid "Before we deactivate Everest Forms, would you care to <a href=\"%1$s\" target=\"_blank\">let us know why</a> so we can improve it for you? <a href=\"%2$s\">No, deactivate now</a>."
+msgstr "Avant de désactiver Everest Forms, voudriez-vous <a href=\"%1$s\" target=\"_blank\">nous dire pourquoi</a> afin que nous puissions l’améliorer pour vous ? <a href=\"%2$s\">Non, désactiver maintenant</a>."
+
+#: includes/admin/builder/class-evf-builder-settings.php:385
+msgid "Disable storing entry information"
+msgstr "Désactiver les informations d’entrée de stockage"
+
+#: includes/admin/settings/class-evf-settings-general.php:46
+msgid "Disable User Details"
+msgstr "Désactiver les détails de l’utilisateur"
+
+#: includes/admin/settings/class-evf-settings-general.php:47
+msgid "Disable storing the IP address and User Agent on all forms."
+msgstr "Désactiver le stockage de l’adresse IP et de l’agent utilisateur sur tous les formulaires."
+
+#. translators: 1: last access date 2: last access time
+#: includes/admin/views/html-admin-page-tools-logs.php:31
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: includes/admin/class-evf-admin-assets.php:142
+#: includes/admin/class-evf-admin-assets.php:221
+msgid "OK"
+msgstr "OK"
+
+#: includes/admin/class-evf-admin-assets.php:150
+msgid "Row Locked"
+msgstr "Ligne verrouillée"
+
+#: includes/admin/class-evf-admin-assets.php:152
+msgid "Field Locked"
+msgstr "Champ verrouillé"
+
+#: includes/admin/class-evf-admin-assets.php:153
+msgid "This field cannot be deleted or duplicated."
+msgstr "Ce champ ne peut pas être supprimé ou dupliqué."
+
+#: includes/admin/class-evf-admin-assets.php:155
+msgid "This item must contain at least one choice."
+msgstr "Cet élément doit contenir au moins un choix."
+
+#: includes/libraries/wp-background-process.php:423
+msgid "Every %d Minutes"
+msgstr "Toutes les %d minutes"
+
+#: includes/admin/class-evf-admin-assets.php:151
+msgid "Single row cannot be deleted."
+msgstr "Une seule ligne ne peut pas être supprimée."
+
+#: includes/admin/class-evf-admin-assets.php:158
+msgid "Are you sure you want to duplicate this field?"
+msgstr "Confirmez-vous la duplication de ce champ ?"
+
+#: includes/admin/class-evf-admin-assets.php:157
+msgid "Are you sure you want to delete this field?"
+msgstr "Confirmez-vous la suppression de ce champ ?"
+
+#: includes/abstracts/class-evf-form-fields.php:460
+#: includes/evf-core-functions.php:1942
+msgid "Meta Key"
+msgstr "Clé méta"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:94
+#: includes/admin/class-evf-admin-entries.php:83
+msgid "Whoops, it appears you do not have any form entries yet."
+msgstr "Oups, il semble que vous n’avez pas encore d’entrée de formulaire."
+
+#: includes/admin/class-evf-admin-entries-table-list.php:107
+msgid "Actions"
+msgstr "Action"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:178
+#: includes/admin/class-evf-admin-entries-table-list.php:189
+msgid "Field"
+msgstr "Champ"
+
+#. translators: %s: entry name
+#: includes/admin/class-evf-admin-entries-table-list.php:305
+msgid "Trash form entry"
+msgstr "Corbeille d’entrées de formulaire"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:320
+msgid "Restore form entry from trash"
+msgstr "Restaurer l’entrée du formulaire de la corbeille"
+
+#. translators: %s: entry name
+#: includes/admin/class-evf-admin-entries-table-list.php:336
+msgid "Delete form entry permanently"
+msgstr "Supprimer définitivement l’entrée du formulaire"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:347
+#: includes/admin/class-evf-admin-entries-table-list.php:424
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+#. translators: %s: count
+#: includes/admin/class-evf-admin-entries-table-list.php:394
+msgctxt "entries"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">(%s)</span>"
+msgstr[1] "Tous <span class=\"count\">(%s)</span>"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:428
+msgid "Move to Trash"
+msgstr "Déplacer dans la corbeille"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:563
+#: includes/admin/class-evf-admin-entries.php:89
+msgid "Filter"
+msgstr "Filtrer"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:572
+#: includes/admin/class-evf-admin-forms-table-list.php:516
+msgid "Empty Trash"
+msgstr "Vider la corbeille"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:586
+msgid "Filter by form"
+msgstr "Filtre par formulaire"
+
+#: includes/admin/class-evf-admin-entries.php:59
+#: includes/admin/class-evf-admin-forms-table-list.php:62
+#: includes/admin/class-evf-admin-forms-table-list.php:176
+#: includes/admin/class-evf-admin-menus.php:132
+msgid "Entries"
+msgstr "Entrées"
+
+#: includes/admin/class-evf-admin-entries.php:76
+msgid "Search Entries"
+msgstr "Rechercher des entrées"
+
+#: includes/admin/class-evf-admin-entries.php:93
+msgid "Learn more about entries"
+msgstr "En savoir plus sur les entrées"
+
+#: includes/admin/views/html-admin-page-addons.php:77
+#: includes/admin/views/html-admin-page-entries-view.php:221
+msgid "Status:"
+msgstr "État  :"
+
+#: includes/admin/views/html-admin-page-entries-view.php:27
+msgid "View Entry"
+msgstr "Voir l’entrée"
+
+#: includes/admin/views/html-admin-page-entries-view.php:28
+msgid "Back to All Entries"
+msgstr "Retour aux entrées"
+
+#: includes/admin/views/html-admin-page-entries-view.php:47
+msgid "Show Empty Fields"
+msgstr "Afficher les champs vides"
+
+#: includes/admin/views/html-admin-page-entries-view.php:47
+msgid "Hide Empty Fields"
+msgstr "Masquer les champs vides"
+
+#: includes/admin/views/html-admin-page-entries-view.php:101
+msgid "Field ID"
+msgstr "ID du champ"
+
+#: includes/admin/views/html-admin-page-entries-view.php:142
+msgid "Empty"
+msgstr "Vide"
+
+#: includes/admin/views/html-admin-page-entries-view.php:159
+msgid "Entry Details"
+msgstr "Détails de l’entrée"
+
+#: includes/admin/views/html-admin-page-entries-view.php:165
+msgid "Entry ID:"
+msgstr "ID de l’entrée :"
+
+#: includes/admin/views/html-admin-page-entries-view.php:172
+#: includes/admin/views/html-admin-page-entries-view.php:179
+msgid "M j, Y @ g:ia"
+msgstr "M j, Y @ g :IA"
+
+#: includes/admin/views/html-admin-page-entries-view.php:187
+msgid "User:"
+msgstr "Utilisateur  :"
+
+#: includes/admin/views/html-admin-page-entries-view.php:205
+msgid "User IP:"
+msgstr "IP de l’utilisateur :"
+
+#: includes/admin/views/html-admin-page-entries-view.php:222
+msgid "Completed"
+msgstr "Terminé"
+
+#: includes/class-evf-form-task.php:948
+msgid "No form ID was found."
+msgstr "Aucun ID de formulaire trouvé."
+
+#: includes/class-evf-form-task.php:955
+msgid "Could not create an entry"
+msgstr "Impossible de créer une entrée"
+
+#: includes/evf-entry-functions.php:105
+msgid "Published"
+msgstr "Publié"
+
+#: includes/abstracts/class-evf-form-fields.php:454
+#: includes/evf-core-functions.php:1943
+msgid "Enter meta key to be stored in database."
+msgstr "Saisir la méta-clé à stocker dans la base de données."
+
+#: includes/admin/views/html-admin-page-entries-view.php:58
+msgid "This entry does not have any fields."
+msgstr "Cette entrée ne contient aucun champ."
+
+#: includes/admin/views/html-admin-page-entries-view.php:171
+msgid "Submitted:"
+msgstr "Envoyé :"
+
+#: includes/admin/class-evf-admin-entries.php:94
+msgid "Create your first form!"
+msgstr "Créez votre premier formulaire !"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:37
+msgid "No Forms found."
+msgstr "Aucun formulaire trouvé."
+
+#: includes/class-evf-install.php:734
+msgid "Free support"
+msgstr "Support gratuit"
+
+#. translators: %d: interval
+#: includes/abstracts/class-evf-background-process.php:172
+msgid "Every %d minutes"
+msgstr "Toutes les %d minutes"
+
+#: includes/abstracts/class-evf-form-fields.php:304
+msgid "On"
+msgstr "Oui"
+
+#: includes/abstracts/class-evf-form-fields.php:304
+msgid "Off"
+msgstr "Non"
+
+#: includes/abstracts/class-evf-form-fields.php:424
+#: includes/evf-core-functions.php:1934
+msgid "Label"
+msgstr "Libellé"
+
+#: includes/abstracts/class-evf-form-fields.php:491
+#: includes/evf-core-functions.php:1952
+msgid "Enter text for the form field description."
+msgstr "Saisir du texte pour le champ description de formulaire."
+
+#: includes/abstracts/class-evf-form-fields.php:497
+#: includes/evf-core-functions.php:1950
+msgid "Description"
+msgstr "Description"
+
+#: includes/abstracts/class-evf-form-fields.php:535
+#: includes/admin/settings/class-evf-settings-validation.php:46
+#: includes/evf-core-functions.php:1958
+#: includes/shortcodes/class-evf-shortcode-form.php:244
+msgid "Required"
+msgstr "Nécessaire"
+
+#: includes/abstracts/class-evf-form-fields.php:989
+#: includes/evf-core-functions.php:1966
+msgid "Choices"
+msgstr "Choix"
+
+#: includes/abstracts/class-evf-form-fields.php:1018
+#: includes/evf-core-functions.php:1967
+msgid "Add choices for the form field."
+msgstr "Ajouter des choix pour le champ de formulaire."
+
+#: includes/abstracts/class-evf-form-fields.php:1321
+msgid "Enter text for the default form field value."
+msgstr "Saisir du texte pour la valeur par défaut du champ de formulaire."
+
+#: includes/abstracts/class-evf-form-fields.php:1328
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+#: includes/abstracts/class-evf-form-fields.php:1376
+#: includes/abstracts/class-evf-form-fields.php:1380
+msgid "Advanced Options"
+msgstr "Options avancées"
+
+#: includes/abstracts/class-evf-form-fields.php:1398
+#: includes/evf-core-functions.php:1979
+msgid "Enter text for the form field placeholder."
+msgstr "Saisir du texte pour l’espace réservé de champ de formulaire."
+
+#: includes/abstracts/class-evf-form-fields.php:1404
+#: includes/evf-core-functions.php:1978
+msgid "Placeholder Text"
+msgstr "Texte substitutif"
+
+#: includes/abstracts/class-evf-form-fields.php:1505
+#: includes/evf-core-functions.php:1986
+msgid "CSS Classes"
+msgstr "Classes CSS"
+
+#: includes/abstracts/class-evf-form-fields.php:1545
+#: includes/evf-core-functions.php:1994
+msgid "Hide Label"
+msgstr "Masquer le libellé"
+
+#: includes/abstracts/class-evf-form-fields.php:1566
+#: includes/evf-core-functions.php:2004
+msgid "Check this option to hide the form field sub-label."
+msgstr "Cochez cette option pour masquer le sous-libellé du champ de formulaire."
+
+#: includes/abstracts/class-evf-form-fields.php:1575
+#: includes/evf-core-functions.php:2002
+msgid "Hide Sub-Labels"
+msgstr "Masquer les sous-libellés"
+
+#: includes/abstracts/class-evf-form-fields.php:1822
+#: includes/class-evf-emails.php:442 includes/class-evf-emails.php:562
+msgid "(empty)"
+msgstr "(vide)"
+
+#: includes/abstracts/class-evf-form-fields.php:2010
+msgid "No form ID found"
+msgstr "Aucun ID de formulaire trouvé"
+
+#: includes/abstracts/class-evf-form-fields.php:2020
+msgid "No field type found"
+msgstr "Aucun type de champ trouvé"
+
+#: includes/abstracts/class-evf-form-fields.php:2050
+#: includes/abstracts/class-evf-form-fields.php:2054
+#: includes/admin/builder/class-evf-builder-fields.php:354
+msgid "Duplicate Field"
+msgstr "Champ en double"
+
+#: includes/abstracts/class-evf-form-fields.php:2051
+#: includes/abstracts/class-evf-form-fields.php:2055
+#: includes/admin/builder/class-evf-builder-fields.php:355
+msgid "Delete Field"
+msgstr "Delete Field"
+
+#: includes/abstracts/class-evf-form-fields.php:2302
+msgid "Please enter a valid url"
+msgstr "Veuillez entrer une URL valide."
+
+#: includes/abstracts/class-evf-form-fields.php:2312
+msgid "Please enter a valid email address"
+msgstr "S’il vous plaît, mettez une adresse e-mail valide"
+
+#: includes/abstracts/class-evf-form-fields.php:2317
+msgid "Please enter a valid number"
+msgstr "Veuillez entrer un numéro valide"
+
+#: includes/admin/builder/class-evf-builder-fields.php:38
+msgid "Fields"
+msgstr "Champs"
+
+#: includes/admin/builder/class-evf-builder-fields.php:167
+msgid "You don't have any fields yet."
+msgstr "Vous n’avez pas encore de champ."
+
+#: includes/admin/builder/class-evf-builder-fields.php:264
+msgid "Row Settings"
+msgstr "Réglages de la ligne"
+
+#: includes/admin/builder/class-evf-builder-fields.php:265
+msgid "Select the type of row"
+msgstr "Choisir le type de ligne"
+
+#: includes/admin/builder/class-evf-builder-settings.php:40
+#: includes/admin/builder/class-evf-builder-settings.php:125
+#: includes/admin/settings/class-evf-settings-general.php:25
+msgid "General"
+msgstr "Général"
+
+#: includes/admin/builder/class-evf-builder-settings.php:41
+#: includes/admin/builder/class-evf-builder-settings.php:441
+#: includes/admin/settings/class-evf-settings-email.php:25
+#: includes/admin/settings/class-evf-settings-validation.php:64
+#: includes/fields/class-evf-field-email.php:20
+#: includes/fields/class-evf-field-email.php:93
+#: includes/fields/class-evf-field-email.php:265
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/admin/builder/class-evf-builder-settings.php:132
+#: includes/class-evf-smart-tags.php:43
+msgid "Form Name"
+msgstr "Nom de l’expéditeur"
+
+#: includes/admin/builder/class-evf-builder-settings.php:170
+msgid "Thanks for contacting us! We will be in touch with you shortly"
+msgstr "Merci de nous avoir contacté. Nous vous répondrons rapidement"
+
+#: includes/admin/builder/class-evf-builder-settings.php:193
+msgid "Redirect To"
+msgstr "Rediriger vers"
+
+#: includes/admin/builder/class-evf-builder-settings.php:199
+msgid "Same Page"
+msgstr "Même page"
+
+#: includes/admin/builder/class-evf-builder-settings.php:200
+#: includes/admin/builder/class-evf-builder-settings.php:211
+msgid "Custom Page"
+msgstr "Page personnalisée"
+
+#: includes/admin/builder/class-evf-builder-settings.php:201
+#: includes/admin/builder/class-evf-builder-settings.php:223
+msgid "External URL"
+msgstr "URL externe"
+
+#: includes/admin/builder/class-evf-builder-settings.php:270
+msgid "Default"
+msgstr "Par défaut"
+
+#: includes/admin/builder/class-evf-builder-settings.php:271
+msgid "Classic Layout"
+msgstr "Style classique"
+
+#: includes/admin/builder/class-evf-builder-settings.php:280
+msgid "Form Class"
+msgstr "Classe de formulaire"
+
+#: includes/admin/builder/class-evf-builder-settings.php:298
+#: includes/class-evf-frontend-scripts.php:286
+#: includes/class-evf-frontend-scripts.php:313
+#: includes/shortcodes/class-evf-shortcode-form.php:94
+#: includes/templates/contact.php:67
+msgid "Submit"
+msgstr "Valider"
+
+#: includes/admin/builder/class-evf-builder-settings.php:474
+msgid "To Address"
+msgstr "À l’adresse"
+
+#: includes/admin/builder/class-evf-builder-settings.php:528
+msgid "From Name"
+msgstr "De nom"
+
+#: includes/admin/builder/class-evf-builder-settings.php:546
+msgid "From Address"
+msgstr "Adresse de l’expéditeur"
+
+#: includes/admin/builder/class-evf-builder-settings.php:582
+msgid "Email Subject"
+msgstr "Sujet de l’e-mail"
+
+#: includes/admin/builder/class-evf-builder-settings.php:601
+msgid "Email Message"
+msgstr "Message de l’e-mail"
+
+#: includes/admin/builder/class-evf-builder-settings.php:603
+msgid "{all_fields}"
+msgstr "{all_fields}"
+
+#: includes/admin/class-evf-admin-assets.php:141
+msgid "field"
+msgstr "champ"
+
+#: includes/admin/class-evf-admin-assets.php:148
+#: includes/admin/class-evf-admin-editor.php:62
+msgid "Close"
+msgstr "Fermé"
+
+#: includes/admin/class-evf-admin-assets.php:149
+#: includes/admin/class-evf-admin-assets.php:224
+#: includes/admin/class-evf-admin-editor.php:97
+msgid "Cancel"
+msgstr "Annuler"
+
+#: includes/admin/class-evf-admin-editor.php:41
+msgid "Add Everest Form"
+msgstr "Ajouter un formulaire Everest"
+
+#: includes/admin/class-evf-admin-editor.php:43
+#: includes/admin/class-evf-admin-editor.php:101
+msgid "Add Form"
+msgstr "Ajouter un formulaire"
+
+#: includes/admin/class-evf-admin-editor.php:61
+msgid "Insert Form"
+msgstr "Insérer un formulaire"
+
+#: includes/admin/class-evf-admin-editor.php:70
+msgid "Select a form below to insert"
+msgstr "Choisir un formulaire à insérer ci-dessous"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:300
+#: includes/admin/views/html-admin-page-entries-view.php:214
+#: includes/admin/views/html-admin-page-tools-logs.php:36
+msgid "View"
+msgstr "Voir"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:316
+#: includes/admin/class-evf-admin-forms-table-list.php:183
+#: includes/evf-entry-functions.php:106
+msgid "Trash"
+msgstr "Corbeille"
+
+#: includes/admin/class-evf-admin-entries-table-list.php:331
+#: includes/admin/class-evf-admin-entries-table-list.php:423
+#: includes/admin/class-evf-admin-forms-table-list.php:181
+#: includes/admin/class-evf-admin-forms-table-list.php:428
+msgid "Restore"
+msgstr "Restaurer"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:49
+msgid "Title"
+msgstr "Titre"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:52
+#: includes/fields/class-evf-field-date-time.php:83
+#: includes/fields/class-evf-field-date-time.php:160
+msgid "Date"
+msgstr "Date"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:172
+#: includes/class-evf-post-types.php:50
+msgid "Edit"
+msgstr "Modifier"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:181
+msgid "Restore this item from the Trash"
+msgstr "Restaurer cet élément de la Corbeille"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:183
+msgid "Move this item to the Trash"
+msgstr "Mettre cet élément à la corbeille"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:205
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#. translators: %s: Time
+#: includes/admin/class-evf-admin-forms-table-list.php:291
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:295
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#. translators: %s: count
+#: includes/admin/class-evf-admin-forms-table-list.php:341
+msgctxt "posts"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">(%s)</span>"
+msgstr[1] "Tous <span class=\"count\">(%s)</span>"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:436
+#: includes/admin/views/html-admin-page-entries-view.php:234
+msgid "Move to trash"
+msgstr "Déplacer à la corbeille"
+
+#: includes/admin/class-evf-admin-forms.php:149
+#: includes/admin/class-evf-admin-menus.php:71
+#: includes/class-evf-post-types.php:46
+msgid "All Forms"
+msgstr "Tous les formulaires"
+
+#: includes/admin/class-evf-admin-forms.php:151
+#: includes/admin/class-evf-admin-menus.php:73
+#: includes/class-evf-post-types.php:48
+msgid "Add New"
+msgstr "Nouveau"
+
+#: includes/admin/class-evf-admin-forms.php:161
+msgid "Search Forms"
+msgstr "Rechercher des formulaires"
+
+#: includes/admin/class-evf-admin-import-export.php:34
+#: includes/admin/class-evf-admin-notices.php:120
+#: includes/admin/class-evf-admin-tools.php:170
+#: includes/admin/class-evf-admin-tools.php:187
+msgid "Action failed. Please refresh the page and retry."
+msgstr "L’action a échoué. Veuillez actualiser la page et essayer de nouveau."
+
+#: includes/admin/class-evf-admin-settings.php:73
+msgid "Your settings have been saved."
+msgstr "Vos réglages ont été enregistrés."
+
+#: includes/admin/class-evf-admin-settings.php:132
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "Les changements effectués seront perdus si vous quittez cette page."
+
+#: includes/admin/class-evf-admin-settings.php:696
+msgid "Select a page&hellip;"
+msgstr "Choisir une page…"
+
+#. translators: 1: EverestForms 2:: five stars
+#: includes/admin/class-evf-admin.php:188
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "Si vous aimez %1$s, n’hésitez pas à nous laisser une note de %2$s. Un grand merci par avance !"
+
+#: includes/admin/evf-admin-functions.php:356
+msgid "Field #"
+msgstr "Champ #"
+
+#: includes/admin/settings/class-evf-settings-general.php:40
+msgid "General Options"
+msgstr "Options générales"
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:82
+#: includes/admin/settings/class-evf-settings-recaptcha.php:102
+#: includes/admin/settings/class-evf-settings-recaptcha.php:130
+#: includes/admin/settings/class-evf-settings-recaptcha.php:150
+msgid "Secret Key"
+msgstr "Clé de chiffrement"
+
+#: includes/admin/settings/class-evf-settings-validation.php:25
+msgid "Validations"
+msgstr "Validations"
+
+#: includes/admin/settings/class-evf-settings-validation.php:40
+msgid "Validation Messages"
+msgstr "Messages de validation"
+
+#: includes/admin/settings/class-evf-settings-validation.php:47
+msgid "Enter the message for the required form field"
+msgstr "Entrez le message dans le champ de formulaire requis"
+
+#: includes/admin/settings/class-evf-settings-validation.php:52
+#: includes/class-evf-frontend-scripts.php:315
+#: includes/evf-core-functions.php:1513
+msgid "This field is required."
+msgstr "Ce champ est nécessaire."
+
+#: includes/admin/settings/class-evf-settings-validation.php:55
+msgid "Website URL"
+msgstr "URL du site"
+
+#: includes/admin/settings/class-evf-settings-validation.php:56
+msgid "Enter the message for the valid website url"
+msgstr "Entrez le message pour l’url du site Web valide"
+
+#: includes/admin/settings/class-evf-settings-validation.php:61
+msgid "Please enter a valid URL."
+msgstr "Merci de saisir une URL valide."
+
+#: includes/admin/settings/class-evf-settings-validation.php:65
+msgid "Enter the message for the valid email"
+msgstr "Entrez le message de l’e-mail valide"
+
+#: includes/admin/settings/class-evf-settings-validation.php:70
+#: includes/fields/class-evf-field-email.php:405
+msgid "Please enter a valid email address."
+msgstr "Veuillez entrer une adresse e-mail valide."
+
+#: includes/admin/settings/class-evf-settings-validation.php:100
+#: includes/fields/class-evf-field-number.php:20
+msgid "Number"
+msgstr "Nombre"
+
+#: includes/admin/settings/class-evf-settings-validation.php:101
+msgid "Enter the message for the valid number"
+msgstr "Entrer le message pour le nombre valide"
+
+#: includes/admin/settings/class-evf-settings-validation.php:106
+#: includes/fields/class-evf-field-number.php:295
+msgid "Please enter a valid number."
+msgstr "Veuillez saisir un nombre valide."
+
+#. translators: %s: Template title
+#: includes/admin/views/html-admin-page-builder-setup.php:81
+msgctxt "Template name"
+msgid "%s template"
+msgstr "%s modèle"
+
+#: includes/admin/views/html-admin-page-builder.php:56
+msgid "Save"
+msgstr "Enregistrer"
+
+#: includes/admin/views/html-admin-page-tools-logs.php:20
+msgid "Delete log"
+msgstr "Effacer le journal"
+
+#: includes/admin/views/html-admin-page-tools-logs.php:45
+msgid "There are currently no logs to view."
+msgstr "Il n’y a actuellement aucun log à afficher."
+
+#: includes/admin/views/html-admin-page-tools.php:21
+msgid "Logs"
+msgstr "Journal"
+
+#: includes/admin/views/html-admin-settings.php:42
+msgid "Save Changes"
+msgstr "Enregistrer les réglages"
+
+#: includes/admin/views/html-notice-custom.php:12
+#: includes/admin/views/html-notice-updated.php:12
+msgid "Dismiss"
+msgstr "Ignorer"
+
+#: includes/admin/views/html-notice-update.php:31
+msgid "It is strongly recommended that you backup your database before proceeding. Are you sure you wish to run the updater now?"
+msgstr "Il est fortement recommandé de sauvegarder votre base de données avant de continuer. Êtes-vous sûr de vouloir exécuter le programme de mise à jour maintenant ?"
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Your database is being updated in the background."
+msgstr "Votre base de données est mise à jour en arrière-plan."
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Taking a while? Click here to run it now."
+msgstr "Cela prend du temps ? Cliquez ici pour l’effectuer maintenant."
+
+#: includes/class-everest-forms.php:101 includes/class-everest-forms.php:110
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on triche ?"
+
+#: includes/class-evf-ajax.php:127
+msgid "Invalid form"
+msgstr "Formulaire invalide"
+
+#: includes/class-evf-ajax.php:177
+msgid "Blank Form"
+msgstr "Formulaire vierge"
+
+#: includes/class-evf-ajax.php:219 includes/class-evf-ajax.php:222
+msgid "You do not have permission."
+msgstr "Vous n’avez pas l’autorisation."
+
+#: includes/class-evf-ajax.php:235
+msgid "No data provided"
+msgstr "Aucune donnée fournie"
+
+#. translators: 1: key 2: URL
+#: includes/class-evf-cache-helper.php:81
+msgid "In order for <strong>database caching</strong> to work with Everest Forms you must add %1$s to the \"Ignored Query Strings\" option in <a href=\"%2$s\">W3 Total Cache settings</a>."
+msgstr "Pour que le <strong>cache de base de données</strong> fonctionne avec WooCommerce vous devez ajouter %1$s à l’option &laquo;&nbsp;Ignored Query Strings&nbsp;&raquo; dans les <a href=\"%2$s\">réglages de W3 Total Cache</a>."
+
+#. translators: %d - field ID.
+#: includes/class-evf-emails.php:536 includes/class-evf-emails.php:578
+msgid "Field ID #%d"
+msgstr "Champ ID #%d"
+
+#: includes/class-evf-emails.php:590
+msgid "An empty form was submitted."
+msgstr "Un formulaire vide a été soumis."
+
+#: includes/class-evf-form-block.php:109 includes/class-evf-post-types.php:45
+#: includes/elementor/class-evf-widget.php:103
+msgid "Form"
+msgstr "Formulaire"
+
+#: includes/class-evf-form-task.php:149
+msgid "Invalid form. Please check again."
+msgstr "Formulaire non valide. Veuillez vérifier à nouveau."
+
+#: includes/class-evf-form-task.php:245 includes/class-evf-form-task.php:368
+#: includes/class-evf-form-task.php:442
+msgid "Form has not been submitted, please see the errors below."
+msgstr "Le formulaire n’a pas été soumis, veuillez voir les erreurs ci-dessous."
+
+#. translators: %s - form name.
+#: includes/class-evf-form-task.php:848
+msgid "New %s Entry"
+msgstr "Nouvelle entrée %s"
+
+#: includes/class-evf-install.php:307
+msgid "Monthly"
+msgstr "Mensuellement"
+
+#: includes/class-evf-install.php:600 includes/templates/contact.php:12
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+#: includes/class-evf-install.php:717
+msgid "View Everest Forms Settings"
+msgstr "Afficher les réglages d’Everest Forms"
+
+#: includes/class-evf-install.php:733
+msgid "View Everest Forms documentation"
+msgstr "Voir la documentation sur Everest Forms"
+
+#: includes/class-evf-install.php:733
+msgid "Docs"
+msgstr "Docs"
+
+#: includes/class-evf-install.php:734
+msgid "Visit free customer support"
+msgstr "Visitez le support client gratuit"
+
+#. translators: 1: class name 2: EVF_Log_Handler_Interface
+#: includes/class-evf-logger.php:54
+msgid "The provided handler %1$s does not implement %2$s."
+msgstr "Le gestionnaire %1$s fourni ne met pas en œuvre %2$s."
+
+#. translators: 1: EVF_Logger::log 2: level
+#: includes/class-evf-logger.php:138
+msgid "%1$s was called with an invalid level \"%2$s\"."
+msgstr "L’appel de %1$s a été effectué avec un niveau non valide « %2$s »."
+
+#: includes/class-evf-post-types.php:47
+msgctxt "Admin menu name"
+msgid "Forms"
+msgstr "Formulaires"
+
+#: includes/class-evf-post-types.php:49
+msgid "Add new form"
+msgstr "Ajoutez nouveau formulaire"
+
+#: includes/class-evf-post-types.php:51
+msgid "Edit form"
+msgstr "Modifier le formulaire"
+
+#: includes/class-evf-post-types.php:52
+msgid "New form"
+msgstr "Nouveau formulaire"
+
+#: includes/class-evf-post-types.php:53
+msgid "View form"
+msgstr "Voir le formulaire"
+
+#: includes/class-evf-post-types.php:54
+msgid "Search forms"
+msgstr "Rechercher des formulaires"
+
+#: includes/class-evf-post-types.php:55
+msgid "No forms found"
+msgstr "Aucun formulaire trouvé"
+
+#: includes/class-evf-post-types.php:56
+msgid "No forms found in trash"
+msgstr "Aucun formulaire trouvé dans la corbeille"
+
+#: includes/class-evf-post-types.php:59
+msgid "Set form image"
+msgstr "Définir une image du formulaire"
+
+#: includes/class-evf-post-types.php:61
+msgid "Use as form image"
+msgstr "Utiliser comme image du formulaire"
+
+#: includes/class-evf-post-types.php:62
+msgid "Insert into form"
+msgstr "Insérer dans le formulaire"
+
+#: includes/class-evf-post-types.php:63
+msgid "Uploaded to this form"
+msgstr "Téléversé sur ce formulaire"
+
+#: includes/class-evf-post-types.php:66
+msgid "Forms list"
+msgstr "Liste des formulaires"
+
+#: includes/class-evf-privacy.php:80
+msgid "Payments"
+msgstr "Paiements"
+
+#. translators: %s template
+#: includes/evf-core-functions.php:103
+msgid "%s does not exist."
+msgstr "%s n’existe pas."
+
+#: includes/evf-core-functions.php:294
+#: includes/log-handlers/class-evf-log-handler-file.php:364
+#: includes/log-handlers/class-evf-log-handler-file.php:384
+msgid "This method should not be called before plugins_loaded."
+msgstr "Cette méthode ne doit pas être appelée avant plugins_loaded."
+
+#. translators: 1: class name 2: everest_forms_logging_class 3:
+#. EVF_Logger_Interface
+#: includes/evf-core-functions.php:555
+msgid "The class %1$s provided by %2$s filter must implement %3$s."
+msgstr "La classe %1$s fournie par le filtre %2$s doit mettre en œuvre %3$s."
+
+#: includes/evf-core-functions.php:1906
+msgid "General Fields"
+msgstr "Champs généraux"
+
+#: includes/evf-core-functions.php:1907
+msgid "Advanced Fields"
+msgstr "Champs avancés"
+
+#: includes/evf-core-functions.php:1971
+#: includes/fields/class-evf-field-checkbox.php:27
+#: includes/fields/class-evf-field-radio.php:27
+msgid "First Choice"
+msgstr "Premier choix"
+
+#: includes/evf-core-functions.php:1972
+#: includes/fields/class-evf-field-checkbox.php:33
+#: includes/fields/class-evf-field-radio.php:33
+msgid "Second Choice"
+msgstr "Deuxième choix"
+
+#: includes/evf-core-functions.php:1973
+#: includes/fields/class-evf-field-checkbox.php:39
+#: includes/fields/class-evf-field-radio.php:39
+msgid "Third Choice"
+msgstr "Troisième choix"
+
+#: includes/fields/class-evf-field-checkbox.php:20
+#: includes/fields/class-evf-field-payment-checkbox.php:20
+msgid "Checkboxes"
+msgstr "Cases à cocher"
+
+#: includes/fields/class-evf-field-checkbox.php:311
+#: includes/fields/class-evf-field-radio.php:241
+msgid "Show Values"
+msgstr "Afficher les valeurs"
+
+#: includes/fields/class-evf-field-checkbox.php:312
+#: includes/fields/class-evf-field-radio.php:242
+msgid "Check this to manually set form field values."
+msgstr "Cocher ceci pour définir manuellement les valeurs de champ de formulaire."
+
+#: includes/class-evf-smart-tags.php:49
+#: includes/fields/class-evf-field-first-name.php:20
+msgid "First Name"
+msgstr "Prénom"
+
+#: includes/class-evf-smart-tags.php:50
+#: includes/fields/class-evf-field-last-name.php:20
+msgid "Last Name"
+msgstr "Nom"
+
+#: includes/fields/class-evf-field-select.php:27
+msgid "Option 1"
+msgstr "Option 1"
+
+#: includes/fields/class-evf-field-select.php:32
+msgid "Option 2"
+msgstr "Option 2"
+
+#: includes/fields/class-evf-field-textarea.php:20
+msgid "Paragraph Text"
+msgstr "Paragraphe de texte"
+
+#. Author of the plugin
+msgid "WPEverest"
+msgstr "WPEverest"
+
+#. Author URI of the plugin
+msgid "https://wpeverest.com"
+msgstr "https://wpeverest.com"
+
+#: includes/abstracts/class-evf-form-fields.php:1536
+#: includes/abstracts/class-evf-form-fields.php:1702
+#: includes/evf-core-functions.php:1996
+msgid "Check this option to hide the form field label."
+msgstr "Cocher pour masquer le libellé de champ de formulaire."
+
+#: includes/abstracts/class-evf-form-fields.php:2052
+#: includes/admin/builder/class-evf-builder-fields.php:356
+#: includes/admin/builder/class-evf-builder-settings.php:25
+#: includes/admin/class-evf-admin-menus.php:162
+#: includes/class-evf-install.php:717
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/admin/builder/class-evf-builder-settings.php:167
+msgid "Successful form submission message"
+msgstr "Message pour envoi de formulaire réussi"
+
+#: includes/admin/builder/class-evf-builder-settings.php:296
+msgid "Submit button text"
+msgstr "Texte du bouton d’envoi"
+
+#: includes/admin/class-evf-admin-assets.php:227
+msgid "New Form Entry"
+msgstr "Nouvelle entrée de formulaire"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:51
+msgid "Author"
+msgstr "Auteur"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:186
+msgid "Delete this item permanently"
+msgstr "Supprimer cet élément définitivement"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:186
+#: includes/admin/class-evf-admin-forms-table-list.php:432
+msgid "Delete permanently"
+msgstr "Supprimer définitivement"
+
+#. Plugin Name of the plugin
+#: includes/admin/class-evf-admin-menus.php:64
+#: includes/admin/class-evf-admin.php:189
+#: includes/admin/evf-admin-functions.php:17
+#: includes/class-evf-form-block.php:100 includes/class-evf-post-types.php:44
+#: includes/class-evf-post-types.php:111 includes/class-evf-privacy.php:31
+#: includes/elementor/class-evf-elementor.php:66
+#: includes/elementor/class-evf-widget.php:43
+msgid "Everest Forms"
+msgstr "Everest Forms"
+
+#: includes/admin/class-evf-admin-menus.php:162
+msgid "Everest Forms settings"
+msgstr "Réglages de formulaires de l’Everest"
+
+#: includes/admin/class-evf-admin-menus.php:201
+msgid "Everest Forms tools"
+msgstr "Outils Everest Forms"
+
+#: includes/admin/class-evf-admin.php:201
+msgid "Thank you for creating with Everest Forms."
+msgstr "Merci d’avoir créé avec Everest Forms."
+
+#: includes/admin/settings/class-evf-settings-recaptcha.php:72
+#: includes/admin/settings/class-evf-settings-recaptcha.php:92
+#: includes/admin/settings/class-evf-settings-recaptcha.php:120
+#: includes/admin/settings/class-evf-settings-recaptcha.php:140
+msgid "Site Key"
+msgstr "Clé du site"
+
+#: includes/admin/views/html-notice-updated.php:14
+msgid "Everest Forms data update complete. Thank you for updating to the latest version!"
+msgstr "La mise à jour des données Everest Forms est terminée. Merci d’avoir mis à jour vers la dernière version !"
+
+#: includes/admin/views/html-notice-updating.php:12
+msgid "Everest Forms data update"
+msgstr "Mise à jour des données d’Everest Forms"
+
+#: includes/class-evf-emails.php:318
+msgid "You cannot send emails with EVF_Emails until init/admin_init has been reached"
+msgstr "Vous ne pouvez pas envoyer d’e-mails avec EVF_Emails tant que init/admin_init n’a pas été trouvé"
+
+#: includes/class-evf-form-task.php:139
+msgid "We were unable to process your form, please try again."
+msgstr "Nous n’avons pas pu traiter le formulaire, veuillez réessayer."
+
+#: includes/class-evf-post-types.php:57
+msgid "Parent forms"
+msgstr "Formulaires parents"
+
+#: includes/class-evf-post-types.php:58
+msgid "Form image"
+msgstr "Image du formulaire"
+
+#: includes/class-evf-post-types.php:60
+msgid "Remove form image"
+msgstr "Supprimer l’image de formulaire"
+
+#: includes/class-evf-post-types.php:64
+msgid "Filter forms"
+msgstr "Filtrer les formulaires"
+
+#: includes/class-evf-post-types.php:65
+msgid "Forms navigation"
+msgstr "Navigation dans les formulaires"
+
+#: includes/class-evf-post-types.php:70
+msgid "This is where you can add new forms."
+msgstr "C’est ici que vous pouvez ajouter de nouveaux formulaires."
+
+#: includes/evf-core-functions.php:1960
+msgid "Check this option to mark the field required."
+msgstr "Cocher pour marquer le champ nécessaire."
+
+#: includes/evf-core-functions.php:1987
+msgid "Enter CSS class for this field container. Class names should be separated with spaces."
+msgstr "Saisir la classe CSS pour ce conteneur de champ. Les noms de classe doivent être séparés par des espaces."
+
+#: includes/evf-notice-functions.php:23 includes/evf-notice-functions.php:54
+#: includes/evf-notice-functions.php:73 includes/evf-notice-functions.php:100
+#: includes/evf-notice-functions.php:113 includes/evf-notice-functions.php:128
+#: includes/evf-notice-functions.php:188
+msgid "This function should not be called before everest_forms_init."
+msgstr "Cette fonction ne doit pas être appelée avant everest_forms_init."
+
+#: includes/export/class-evf-entry-csv-exporter.php:89
+msgid "Status"
+msgstr "État"
+
+#. Plugin URI of the plugin
+msgid "https://wpeverest.com/wordpress-plugins/everest-forms/"
+msgstr "https://wpeverest.com/wordpress-plugins/everest-forms/"
+
+#: includes/admin/builder/class-evf-builder-settings.php:265
+msgid "Layout Design"
+msgstr "Conception de la mise en page"
+
+#: includes/admin/class-evf-admin-forms-table-list.php:50
+msgid "Shortcode"
+msgstr "Code court"
+
+#: includes/admin/class-evf-admin.php:190
+msgid "Thanks :)"
+msgstr "Merci :)"
+
+#: includes/class-evf-ajax.php:199
+msgid "Something went wrong, please try again later"
+msgstr "Quelque chose s’est mal passée, veuillez réessayer ultérieurement."
+
+#: includes/admin/class-evf-admin-assets.php:156
+msgid "Are you sure you want to delete this row?"
+msgstr "Voulez-vous vraiment supprimer cette ligne ?"
+
+#: includes/class-evf-form-task.php:91 includes/class-evf-form-task.php:504
+#: includes/shortcodes/class-evf-shortcode-form.php:947
+#: includes/templates/contact.php:61
+msgid "Thanks for contacting us! We will be in touch with you shortly."
+msgstr "Merci de nous avoir contacté ! Nous reprendrons rapidement contact avec vous."
+
+#: includes/admin/class-evf-admin-forms-table-list.php:279
+msgid "Y/m/d g:i:s A"
+msgstr "d/m/Y \\à G \\h i \\m\\i\\n s \\s"

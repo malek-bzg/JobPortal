@@ -1,0 +1,129 @@
+<?php
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
+/**
+ * Class WP_Job_Manager_Field_Editor_Conditionals_Resume
+ *
+ * @since 1.7.10
+ *
+ */
+class WP_Job_Manager_Field_Editor_Conditionals_Resume extends WP_Job_Manager_Field_Editor_Conditionals {
+
+	/**
+	 *
+	 *
+	 *
+	 * @since 1.8.1
+	 *
+	 * @return string
+	 */
+	public function get_slug(){
+		return 'resume';
+	}
+
+	/**
+	 * Actions/Filters
+	 *
+	 *
+	 * @since 1.7.10
+	 *
+	 */
+	public function hooks() {
+
+		add_action( 'submit_resume_form_resume_fields_start', array( $this, 'form' ) );
+
+	}
+
+	/**
+	 * Return Repeatable Fields
+	 *
+	 *
+	 * @since 1.8.0
+	 *
+	 * @return array|mixed|void
+	 */
+	public function get_repeatable_fields(){
+
+		$repeatables = array( 'candidate_education', 'candidate_experience', 'links' );
+
+		return apply_filters( 'field_editor_resume_conditional_logic_repeatable_fields', $repeatables );
+	}
+
+	/**
+	 * Add Filter for Fields (to set required false)
+	 *
+	 *
+	 * @since 1.7.10
+	 *
+	 */
+	public function add_fields_filter() {
+
+		if ( empty( $_POST['submit_resume'] ) ) {
+			return;
+		}
+
+		add_filter( 'submit_resume_form_fields', array( $this, 'set_required_false' ), 9999999999 );
+	}
+
+	/**
+	 * Get Logic Fields
+	 *
+	 *
+	 * @since 1.7.10
+	 *
+	 * @return array|bool
+	 */
+	public function get_logic(){
+
+		if ( $this->logic !== null ) {
+			return $this->logic;
+		}
+
+		$logic = get_option( 'field_editor_resume_conditional_logic', array() );
+
+		// Remove any disabled field groups
+		$this->logic = wp_list_filter( $logic, array( 'status' => 'disabled' ), 'NOT' );
+
+		if ( empty( $this->logic ) ) {
+			return false;
+		}
+
+		return $this->logic;
+	}
+
+	/**
+	 * Get Fields
+	 *
+	 *
+	 * @since 1.7.10
+	 *
+	 */
+	public function get_fields() {
+
+		$jmfe   = WP_Job_Manager_Field_Editor_Fields::get_instance();
+		$fields = $jmfe->get_fields( 'resume_fields' );
+
+		return $fields;
+
+	}
+
+	/**
+	 * Get listing ID when editing listings
+	 *
+	 *
+	 * @since 1.8.1
+	 *
+	 * @return bool|int
+	 */
+	public function get_edit_listing_id() {
+
+		if ( array_key_exists( 'resume_id', $_GET ) ) {
+			return absint( $_GET['resume_id'] );
+		}
+
+		return false;
+	}
+}
